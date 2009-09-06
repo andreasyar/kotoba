@@ -29,7 +29,7 @@
 	<td colspan="2"><input type="text" name="new_group"></td>
 </tr>
 </table><br>
-<input type="submit" value="Сохранить">
+<input type="reset" value="Сброс"> <input type="submit" value="Сохранить">
 </form>
 <a href="{$DIR_PATH}/">На главную</a>
 {include file='footer.tpl'}
