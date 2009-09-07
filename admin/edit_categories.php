@@ -9,63 +9,59 @@
  * See license.txt for more info.*
  *********************************/
 
-require_once("../database_connect.php");
-require_once("../database_common.php");
-require_once("../common.php");
+require '../kwrapper.php';
+require_once Config::ABS_PATH . '/lang/' . Config::LANGUAGE . '/logging.php';
 
-function get_categories($link) {
-	$categories = array();
-	$st = mysqli_prepare($link, "call sp_get_categories_ex()");
-	if(! $st) {
-		kotoba_error(mysqli_error($link));
-	}
-	if(! mysqli_stmt_execute($st)) {
-		kotoba_error(mysqli_stmt_error($st));
-	}
-	mysqli_stmt_bind_result($st, $cid, $order, $cname);
-
-	while(mysqli_stmt_fetch($st)) {
-		array_push($categories, array('cid' => $cid, 'corder' => $order, 'cname' => $cname));
-	}
-	mysqli_stmt_close($st);
-	cleanup_link($link);
-	return $categories;
+kotoba_setup($link, $smarty);
+/*
+ * Только для администраторов.
+ */
+if(! in_array(Config::ADM_GROUP_NAME, $_SESSION['groups']))
+{
+	mysqli_close($link);
+	kotoba_error(Errmsgs::$messages['NOT_ADMIN'],
+		$smarty,
+		basename(__FILE__) . ' ' . __LINE__);
 }
-
-function add_new_category($link, &$params_array) {
-	if(!isset($params_array['cname']) || strlen($params_array['cname']) == 0) {
-		kotoba_error("empty data set");
+kotoba_log(sprintf(Logmsgs::$messages['ADMIN_FUNCTIONS'],
+		'Редактирование категорий досок',
+		$_SESSION['user'],
+		$_SERVER['REMOTE_ADDR']),
+	Logmsgs::open_logfile(Config::ABS_PATH . '/log/' .
+		basename(__FILE__) . '.log'));
+$categories = db_categories_get($link, $smarty);
+$reload_categories = false;	// Были ли произведены изменения.
+/*
+ * Добавим категорию досок.
+ */
+if(isset($_POST['new_category']) && $_POST['new_category'] !== '')
+{
+	if(($new_category_name = check_format('category', $_POST['new_category'])) == false)
+	{
+		mysqli_close($link);
+		kotoba_error(Errmsgs::$messages['CATEGORY_NAME'],
+			$smarty,
+			basename(__FILE__) . ' ' . __LINE__);
 	}
-	list($order, $name) = array(
-		intval($params_array['corder']),
-		strval($params_array['cname']));
-
-	$st = mysqli_prepare($link, "call sp_create_category(?, ?)");
-	if(! $st) {
-		kotoba_error(mysqli_error($link));
+	db_categories_add($new_category_name, $link, $smarty);
+	$reload_categories = true;
+}
+/*
+ * Удалим категории.
+ */
+foreach($categories as $category)
+	if(isset($_POST['delete_' . $category['id']]))
+	{
+		db_categories_delete($category['id'], $link, $smarty);
+		$reload_categories = true;
 	}
-	mysqli_stmt_bind_param($st, "is", $order, $name);
-	if(! mysqli_stmt_execute($st)) {
-		kotoba_error(mysqli_stmt_error($st));
-	}
-	cleanup_link($link);
-}
-
-
-$link = dbconn();
-if(isset($_GET['action'])) {
-	$action = strval($_GET['action']);
-}
-
-if(isset($action) && $action == 'new') {
-	add_new_category($link, $_GET);
-	header("Location: boards.php");
-}
-else {
-	$categories = get_categories($link);
-
-	$smarty = new SmartyKotobaSetup();
-	$smarty->assign('categories', $categories);
-	$smarty->display('adm_categories.tpl');
-}
+/*
+ * Если нужно, получение обновлённого списка категорий досок, вывод формы
+ * редактирования.
+ */
+if($reload_categories)
+	 $categories = db_categories_get($link, $smarty);
 mysqli_close($link);
+$smarty->assign('categories', $categories);
+$smarty->display('edit_categories.tpl');
+?>
