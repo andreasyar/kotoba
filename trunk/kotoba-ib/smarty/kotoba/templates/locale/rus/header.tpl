@@ -20,7 +20,7 @@
 <head>
     <title>{$page_title}</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="stylesheet" type="text/css" href="{$DIR_PATH}/{$STYLESHEET}">
+    <link rel="stylesheet" type="text/css" href="{$DIR_PATH}/css/{$STYLESHEET}">
 </head>
 <body>
 <div class="adminbar">[<a href="{$DIR_PATH}/edit_settings.php">Настройки</a>] [<a href="{$DIR_PATH}/manage.php">Управление</a>]</div>
