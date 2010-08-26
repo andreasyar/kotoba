@@ -198,7 +198,7 @@ try {
                         posts_delete($post['id']);
                         break;
                     case 'file':
-                        attachments_get_by_posts(array($post));
+                        posts_attachments_delete_by_post($post['id']);
                         break;
                     case 'last':
 
