@@ -38,20 +38,12 @@ try {
     }
 
     // Проверка уровня доступа и запись сообщения в лог.
-    if (is_admin()) {
-        Logging::write_msg(Config::ABS_PATH . '/log/' . basename(__FILE__) . '.log',
-                Logging::$messages['ADMIN_FUNCTIONS_MANAGE'],
-                $_SESSION['user'], $_SERVER['REMOTE_ADDR']);
-        Logging::close_log();
-    } elseif (is_mod()) {
-        Logging::write_msg(Config::ABS_PATH . '/log/' . basename(__FILE__) . '.log',
-                Logging::$messages['MOD_FUNCTIONS_MANAGE'],
-                $_SESSION['user'], $_SERVER['REMOTE_ADDR']);
-        Logging::close_log();
-    } else {
+    if (!is_admin() && !is_mod()) {
         throw new PermissionException(PermissionException::$messages['NOT_ADMIN']
-             . ' ' . PermissionException::$messages['NOT_MOD']);
+              . ' ' . PermissionException::$messages['NOT_MOD']);
     }
+    call_user_func(Logging::$f['MANAGE']);
+    Logging::close_log();
 
     // Формирование и вывод кода страницы.
     $smarty->assign('show_control', is_admin() || is_mod());
