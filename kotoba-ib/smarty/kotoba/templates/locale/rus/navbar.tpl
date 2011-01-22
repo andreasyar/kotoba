@@ -1,20 +1,15 @@
 {* Smarty *}
-{*************************************
- * Этот файл является частью Kotoba. *
- * Файл license.txt содержит условия *
- * распространения Kotoba.           *
- *************************************
- *********************************
+{*********************************
  * This file is part of Kotoba.  *
  * See license.txt for more info.*
  *********************************}
 {*
-Код панели навигации.
+Navigation bar.
 
-Описание переменных:
-    $DIR_PATH - путь от корня документов к директории, где хранится index.php (см. config.default).
-    $INVISIBLE_BOARDS - Имена досок, которые будут принудительно не видны в списке досок. (см. config.default).
-    $boards - доски.
+Variables:
+    $DIR_PATH - path from server document root to index.php directory (see config.default).
+    $INVISIBLE_BOARDS - list of board names what will not shown in navigation bar. (see config.default).
+    $boards - boards.
 *}
 <div class="navbar">
 {assign var="category" value=""}
