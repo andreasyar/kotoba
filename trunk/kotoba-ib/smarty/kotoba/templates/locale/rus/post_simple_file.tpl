@@ -9,7 +9,7 @@
  * See license.txt for more info.*
  *********************************}
 {*
-Код обычного сообщения без вложений.
+Код обычного сообщения с вложенным файлом.
 
 $DIR_PATH - путь от корня документов к директории, где хранится index.php (см. config.default).
 
@@ -57,9 +57,9 @@ $enable_translation - Включение перевода текста сооб�
 {block name=mod_mini_panel}{if $is_admin}{include file='mod_mini_panel.tpl' post=$post}{else}<!-- You are not admin. -->{/if}
 {/block}
 
-{block name=attachment}<span class="filesize">Файл: <a target="_blank" href="{$attachments[0].file_link}">{$attachments[0].name}</a>-({$attachments[0].size} Байт)</span>
+{block name=attachment}<span class="filesize">Файл: <a target="_blank" href="{$DIR_PATH}/{$post.board.name}/other/{$attachments[0].name}">{$attachments[0].name}</a>-({$attachments[0].size} Байт)</span>
                 <br/>
-                <a target="_blank" href="{$attachments[0].file_link}"><img src="{$attachments[0].thumbnail_link}" class="thumb" width="{$attachments[0].thumbnail_w}" height="{$attachments[0].thumbnail_h}"></a>{/block}
+                <a target="_blank" href="{$DIR_PATH}/{$post.board.name}/other/{$attachments[0].name}"><img src="{$DIR_PATH}/img/{$attachments[0].thumbnail}" class="thumb" width="{$attachments[0].thumbnail_w}" height="{$attachments[0].thumbnail_h}"></a>{/block}
 
 {block name=text}<blockquote id="post{$post.number}">
                     {$post.text}
