@@ -1,37 +1,30 @@
 {* Smarty *}
-{*************************************
- * Этот файл является частью Kotoba. *
- * Файл license.txt содержит условия *
- * распространения Kotoba.           *
- *************************************
- *********************************
+{*********************************
  * This file is part of Kotoba.  *
  * See license.txt for more info.*
  *********************************}
 {*
-Код страницы просмотра нитей доски.
+Code of threads catalog page.
 
-Описание переменных:
-    $DIR_PATH - путь от корня документов к директории, где хранится index.php (см. config.default).
-    $STYLESHEET - стиль оформления (см. config.default).
-    $show_control - показывать ссылку на страницу административных фукнций и фукнций модераторов в панели администратора.
-    $boards - доски.
-    $board - доска, на которой расположены проматриваемые нити.
-    $ATTACHMENT_TYPE_FILE - тип вложения файл.
-    $ATTACHMENT_TYPE_LINK - тип вложения ссылка на изображение.
-    $ATTACHMENT_TYPE_VIDEO - тип вложения встроенное видео.
-    $ATTACHMENT_TYPE_IMAGE - тип вложения изображение.
-    $posts - оригинальные сообщения нитей доски.
-
-Необязательные переменные:
-    $posts_attachments - связи сообщений и их вложений.
-    $attachments - вложения.
+Variables:
+    $DIR_PATH - path from server document root to index.php directory (see config.default).
+    $STYLESHEET - stylesheet (see config.default).
+    $show_control - show link to manage page.
+    $boards - boards.
+    $board - board.
+    $ATTACHMENT_TYPE_FILE - attachment type is file (see config.default).
+    $ATTACHMENT_TYPE_LINK - attachment type is link (see config.default).
+    $ATTACHMENT_TYPE_VIDEO - attachment type is video (see config.default).
+    $ATTACHMENT_TYPE_IMAGE - attachment type is image (see config.default).
+    $posts - original posts of threads.
+    $posts_attachments (optional) - posts attachments relations.
+    $attachments (optional) - attachments.
 *}
 {include file='header.tpl' DIR_PATH=$DIR_PATH STYLESHEET=$STYLESHEET page_title="Просмотр нитей доски /`$board.name`/ `$board.title`"}
 
 <script type="text/javascript">var DIR_PATH = '{$DIR_PATH}';</script>
-<script src="{$DIR_PATH}/kotoba.js"></script>
 <script src="{$DIR_PATH}/protoaculous-compressed.js"></script>
+<script src="{$DIR_PATH}/kotoba.js"></script>
 
 {include file='adminbar.tpl' DIR_PATH=$DIR_PATH show_control=$show_control}
 
@@ -76,7 +69,7 @@
 </a>
 {/section}
 </div>
+{include file='navbar.tpl' DIR_PATH=$DIR_PATH boards=$boards}
 
-<div class="navbar">{include file='board_list.tpl' boards=$boards DIR_PATH=$DIR_PATH} [<a href="{$DIR_PATH}/">Главная</a>]</div>
 <div class="footer" style="clear: both;">- Kotoba 1.1 -</div>
 {include file='footer.tpl'}
