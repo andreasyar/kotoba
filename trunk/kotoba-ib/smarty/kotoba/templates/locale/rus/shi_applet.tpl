@@ -1,29 +1,24 @@
 {* Smarty *}
-{*************************************
- * Этот файл является частью Kotoba. *
- * Файл license.txt содержит условия *
- * распространения Kotoba.           *
- *************************************
- *********************************
+{*********************************
  * This file is part of Kotoba.  *
  * See license.txt for more info.*
  *********************************}
 {*
-Код апплета shi.
+Code of shi applet.
 
-Описание переменных:
-    $DIR_PATH - путь от корня документов к директории, где хранится index.php (см. config.default).
-    $STYLESHEET - стиль оформления (см. config.default).
-    $image_width - ширина холста.
-    $image_height - высота холста.
-    $thumbnail_width - ширина уменьшенной копии рисунка.
-    $thumbnail_height - высота уменьшенной копии рисунка.
-    $tools - тип набора инструментов (pro, normal).
-    $ip - IP-адрес художника.
-    $time - время начала рисования.
-    $file - имя файла рисунка.
-    $board - имя доски.
-    $thread - номер нити.
+Variables:
+    $DIR_PATH - path from server document root to index.php directory (see config.default).
+    $STYLESHEET - stylesheet (see config.default).
+    $image_width - image width.
+    $image_height - image height.
+    $thumbnail_width - thumbnail wight.
+    $thumbnail_height - thumbnail height.
+    $tools - toolkit name (pro, normal).
+    $ip - IP-address of artist.
+    $time - time of begin drawing.
+    $file - name of image file.
+    $board - board name.
+    $thread - thread name.
 *}
 <html>
 <head>
