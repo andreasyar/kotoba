@@ -24,7 +24,7 @@ Variables:
 </style>
 <h1>{$ib_name}</h1>
 <ul>
-<li><a href="{$DIR_PATH}/news.php" target="main">Главная страница</a></li>
+<li><a href="{$DIR_PATH}/news.php" target="main">Home</a></li>
 <li id="removeframes"><a href="#" onclick="javascript:return menu_removeframes('Frames removed.');" target="_self">[Remove frames]</a></li>
 </ul>
 {foreach $categories as $category}
