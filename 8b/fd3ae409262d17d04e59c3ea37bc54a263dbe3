@@ -1,0 +1,89 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "27277",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "27277",
+      "Text-content-md5": "467a2e415b2db29303eac54756b0a5cc",
+      "Text-content-sha1": "439b71409fcfab14d7f8296b594efe96e882b615"
+    },
+    {
+      "Content-length": "19436",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "19436",
+      "Text-content-md5": "affba39fa66ef572d555a0f6a3e42dc4",
+      "Text-content-sha1": "ad2595046eb67b37f98c0137c050f3b4bef1bd50"
+    },
+    {
+      "Content-length": "27282",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "27282",
+      "Text-content-md5": "47ce7aef0e236c9a6c9bfa30852e9d9e",
+      "Text-content-sha1": "5c0fa88caed5440c1e2341994d7763b552e7b583"
+    },
+    {
+      "Content-length": "12807",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "12807",
+      "Text-content-md5": "35525ce846b86f33c2544923a2756f55",
+      "Text-content-sha1": "a3af39bd1caf39228e10cf82e67802b49842b4bc"
+    },
+    {
+      "Content-length": "9508",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php",
+      "Text-content-length": "9508",
+      "Text-content-md5": "7cb5f6e3edfa0366c525b577f6d2342a",
+      "Text-content-sha1": "06ad786890923895fe873fe5c96b3a8594c28ac0"
+    }
+  ],
+  "path": "trunk",
+  "revision": 44,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-07T13:09:07.120894Z",
+    "svn:log": "added posting support to various formats (svg for now)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "directories": [
+    "branches/kotoba",
+    "branches/kotoba/smarty",
+    "branches/kotoba/smarty/kotoba",
+    "branches/kotoba/smarty/kotoba/templates",
+    "branches/kotoba/smarty/internals",
+    "branches/kotoba/smarty/plugins",
+    "branches/kotoba/smarty/kotoba/cache",
+    "branches/kotoba/smarty/kotoba/configs",
+    "branches/kotoba/smarty/kotoba/templates_c"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+      "Node-copyfrom-rev": "121",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba/smarty/kotoba/templates_c"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 122,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T09:08:48.086190Z",
+    "svn:log": ""
+  }
+}

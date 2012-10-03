@@ -1,0 +1,69 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "3792",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/kotoba.css",
+      "Text-content-length": "3792",
+      "Text-content-md5": "0ef947d0ba3f55db63d1bb72a481874e",
+      "Text-content-sha1": "47569b92a6c836f1730f9586d1b72907c7c9be08"
+    },
+    {
+      "Content-length": "3797",
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib/res/Code convention.txt",
+      "Node-copyfrom-rev": "45",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Code convention.html",
+      "Text-content-length": "3797",
+      "Text-content-md5": "aee519a204af32983a78fcd0c2402604",
+      "Text-content-sha1": "052c66dcd0c31dd1b4948a26e334d0f670f139ee",
+      "Text-copy-source-md5": "0d17f48af79d1447266b18f57e71a668",
+      "Text-copy-source-sha1": "8789a7f64ad8444817f478d974583e37e84a896e"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/res/Code convention.txt"
+    }
+  ],
+  "path": "/",
+  "revision": 50,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-04-15T15:52:12.068385Z",
+    "svn:log": "Добавлена предварительная версия соглашения по оформлению кода."
+  }
+}

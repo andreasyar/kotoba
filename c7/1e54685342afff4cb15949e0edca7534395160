@@ -1,0 +1,44 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/kusaba.js"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php"
+    }
+  ],
+  "path": "/",
+  "revision": 11,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-12T08:59:47.326707Z",
+    "svn:log": "Удаление кода, распространяемого под лицензиней гну."
+  }
+}

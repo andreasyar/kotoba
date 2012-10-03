@@ -1,0 +1,52 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "26460",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "26460",
+      "Text-content-md5": "c661d0494fb2df90dc2bd05dc1043aee",
+      "Text-content-sha1": "effa5eda8a07ae021fce0b63bde5cebfa4a4f3f0"
+    },
+    {
+      "Content-length": "25911",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "25911",
+      "Text-content-md5": "f37c794d34e90ed79ab893eaaf772201",
+      "Text-content-sha1": "4ef1a7992da72a6c060e19eb323cd8657e754e8d"
+    }
+  ],
+  "path": "trunk",
+  "revision": 19,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-18T00:10:46.890472Z",
+    "svn:log": "Добавлена часть Вакаба марка. Исправлен баг в запросе на посик треда для сброса в архив при ответе в тред."
+  }
+}

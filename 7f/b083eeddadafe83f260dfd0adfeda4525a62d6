@@ -1,0 +1,117 @@
+{
+  "directories": [
+    "branches/kotoba-ib",
+    "branches/kotoba-ib/smarty",
+    "branches/kotoba-ib/smarty/kotoba",
+    "branches/kotoba-ib/smarty/kotoba/templates",
+    "branches/kotoba-ib/smarty/internals",
+    "branches/kotoba-ib/smarty/plugins",
+    "branches/kotoba-ib/smarty/kotoba/cache",
+    "branches/kotoba-ib/smarty/kotoba/configs",
+    "branches/kotoba-ib/smarty/kotoba/templates_c",
+    "branches/kotoba-ib/sessions",
+    "branches/kotoba-ib/res",
+    "branches/kotoba-ib/nbproject",
+    "branches/kotoba-ib/nbproject/private",
+    "branches/kotoba-ib/stat",
+    "branches/kotoba-ib/smarty/kotoba/cache/English",
+    "branches/kotoba-ib/smarty/kotoba/cache/Russian",
+    "branches/kotoba-ib/smarty/kotoba/configs/English",
+    "branches/kotoba-ib/smarty/kotoba/configs/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates/English",
+    "branches/kotoba-ib/smarty/kotoba/templates/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/English",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "branches/kotoba-ib/admin",
+    "branches/kotoba-ib/lang",
+    "branches/kotoba-ib/lang/English",
+    "branches/kotoba-ib/lang/Russian",
+    "branches/kotoba-ib/log"
+  ],
+  "node_properties": {
+    "branches/kotoba-ib": {
+      "svn:ignore": ".xt.xt\n"
+    },
+    "branches/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "1908",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/admin/edit_groups.php",
+      "Text-content-length": "1908",
+      "Text-content-md5": "f9896c54a5325751ffac54b4e224924a",
+      "Text-content-sha1": "c15d90a4c7237352702cba42cf07ec893e0d65eb"
+    },
+    {
+      "Content-length": "3059",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/admin/edit_user_groups.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "3049",
+      "Text-content-md5": "1215127041b8d579492e2a869572255e",
+      "Text-content-sha1": "0d03ddbbd7257dbea8135525f93ef542e52334ea"
+    },
+    {
+      "Content-length": "28665",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/common.php",
+      "Text-content-length": "28665",
+      "Text-content-md5": "0885930bc4128c7f1ab7bcd79a3d9746",
+      "Text-content-sha1": "a5a0dee6a3123c51fc3f1563c9569e7a7b28aa4a"
+    },
+    {
+      "Content-length": "4318",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/lang/Russian/errors.php",
+      "Text-content-length": "4318",
+      "Text-content-md5": "720a493851f9f30c504ef4976a85138e",
+      "Text-content-sha1": "04ac738529caa8828e92ffb7eef7bc8e2840e938"
+    },
+    {
+      "Content-length": "2237",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/res/data.sql",
+      "Text-content-length": "2237",
+      "Text-content-md5": "8ef83cb64f22fa4089efaeca254d9d1e",
+      "Text-content-sha1": "52705f7c111528c5f80f184be481e5ff96d71855"
+    },
+    {
+      "Content-length": "5260",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/res/stored procedures.sql",
+      "Text-content-length": "5260",
+      "Text-content-md5": "54d93538becedc905e944ebabf3ad72f",
+      "Text-content-sha1": "ae4f139ee0c3629d2fbff2959bb067de6c8e59fe"
+    },
+    {
+      "Content-length": "5185",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/res/tables.sql",
+      "Text-content-length": "5185",
+      "Text-content-md5": "05c4fb0daa61253ff6d423c2b489f1ca",
+      "Text-content-sha1": "266d2b643cab4239b7b9a5cd0986cda2ba53f9bc"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/res/install.php"
+    }
+  ],
+  "path": "branches/kotoba-ib",
+  "revision": 136,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-09-05T18:18:49.918712Z",
+    "svn:log": "Добавлен скрипт перемещения пользователей по группам. Другие небольшие изменения."
+  }
+}

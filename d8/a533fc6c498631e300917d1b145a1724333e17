@@ -1,0 +1,170 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4514",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/common.php",
+      "Text-content-length": "4514",
+      "Text-content-md5": "42164b3b1aa4b2d554a297e5c2f60a36",
+      "Text-content-sha1": "d5072ceeba63e2653a33bff87921414fe1f9a4e5"
+    },
+    {
+      "Content-length": "8188",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/database_common.php",
+      "Text-content-length": "8188",
+      "Text-content-md5": "2b4f20dad41b05fa84d1ae3a682dcc88",
+      "Text-content-sha1": "6d079872ac2e158acd70e61a0c5f52b15e3b1100"
+    },
+    {
+      "Content-length": "10614",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/preview.php",
+      "Text-content-length": "10614",
+      "Text-content-md5": "9fd85203cee3b256e9ce2be37128c3e7",
+      "Text-content-sha1": "e6fc321030121b16e17e2f51ba229256d5d5747d"
+    },
+    {
+      "Content-length": "10404",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba-tables.sql",
+      "Text-content-length": "10404",
+      "Text-content-md5": "b47ab37b7013dd784286737878f2f667",
+      "Text-content-sha1": "2f8c660c0bea10d1d148ef66989c0ed8d74f1f4b"
+    },
+    {
+      "Content-length": "43805",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba.sql",
+      "Text-content-length": "43805",
+      "Text-content-md5": "0ab117b67d56963929af3e4add16d79c",
+      "Text-content-sha1": "c318c40b2b9ccde1583f025949432e2263233c13"
+    },
+    {
+      "Content-length": "1230",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/session_processing.php",
+      "Text-content-length": "1230",
+      "Text-content-md5": "0f0e7ca5981b53ae876c594d4ce3c0d9",
+      "Text-content-sha1": "ac4ffa673198007ba273276615fe0bff95c29bff"
+    },
+    {
+      "Content-length": "529",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/board_preview_footer.tpl",
+      "Text-content-length": "529",
+      "Text-content-md5": "b14d0b7036292bfe19c0599aa59ec8a4",
+      "Text-content-sha1": "3a6419694e680453406642f602e9d917ecaddefc"
+    },
+    {
+      "Content-length": "453",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/hidethread.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "443",
+      "Text-content-md5": "c4bed63894ad5627b80106fa315d6bc2",
+      "Text-content-sha1": "e8b69e506088e3dfca3fd9fd439612beb54dc451"
+    },
+    {
+      "Content-length": "3879",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/post_original.tpl",
+      "Text-content-length": "3879",
+      "Text-content-md5": "ac3f01ba88e06a2fb8f5bb81e9e220d9",
+      "Text-content-sha1": "c073e08e902e3cfe74c0c4d02fd34a93f744ed31"
+    },
+    {
+      "Content-length": "2744",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/un-hide.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "2734",
+      "Text-content-md5": "9f06ffd07947472d9667e05937b9355b",
+      "Text-content-sha1": "225a23eb0bcf6a1c91dec6d2b2134f70e3cbf908"
+    }
+  ],
+  "path": "/",
+  "revision": 99,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-07-01T13:48:55.119881Z",
+    "svn:log": "* registered user now may hide threads\n* new database table: user_hidden_threads\n* new database function: get_board_id\n* new database procedures: sp_hide_thread sp_unhide_thread sp_threads_on_page_for_user sp_user_hidden_threads\n* preview.php huge update. removed old code which was already commented\n\n"
+  }
+}

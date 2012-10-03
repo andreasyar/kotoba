@@ -1,0 +1,119 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "26595",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "26595",
+      "Text-content-md5": "c109357e9db80ee85cd83638d41a7f1d",
+      "Text-content-sha1": "7b443a666029aab02d16169b1ca68345e205e773"
+    },
+    {
+      "Content-length": "1632",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/databaseconnect.php",
+      "Text-content-length": "1632",
+      "Text-content-md5": "313733fb08f44eb5628c44c2193220f4",
+      "Text-content-sha1": "ccf7234f4232173dd848a2a83f9d2a16258b6860"
+    },
+    {
+      "Content-length": "13089",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "13089",
+      "Text-content-md5": "610f7ba2fc152a4f274e7ec06af74e99",
+      "Text-content-sha1": "aaa639912504e96fa2e0b197391ee5212d62c5b8"
+    },
+    {
+      "Content-length": "23115",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/mark.php",
+      "Text-content-length": "23115",
+      "Text-content-md5": "e4e5a5043e8e03c627a8611164d0faf9",
+      "Text-content-sha1": "0b9f2d2ba22db2b674be13e922186b8328eb055b"
+    },
+    {
+      "Content-length": "19391",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "19391",
+      "Text-content-md5": "0ba47e89ce382e0907f4cb58f80a3169",
+      "Text-content-sha1": "e05bf6d6aacf5a6e5777e8f32812f7f08039be6c"
+    },
+    {
+      "Content-length": "7901",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/removepost.php",
+      "Text-content-length": "7901",
+      "Text-content-md5": "6e8fa754bca0de9fea68315971622e62",
+      "Text-content-sha1": "8e9ca46adb675163e75dca624f43431bbea52dc9"
+    },
+    {
+      "Content-length": "26217",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "26217",
+      "Text-content-md5": "922574c858082b8c29d9018401b6ebb9",
+      "Text-content-sha1": "dad2225e28f3a14140a6758e58a35c0d9cd4ae94"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Code convention.txt",
+      "Prop-content-length": "10",
+      "Text-content-length": "0",
+      "Text-content-md5": "d41d8cd98f00b204e9800998ecf8427e",
+      "Text-content-sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    }
+  ],
+  "path": "/",
+  "revision": 39,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-03-19T00:49:05.338518Z",
+    "svn:log": "Исправлена Котоба Марк. Исправлены ошибки в текстах событий. Другие небольшие исправления."
+  }
+}

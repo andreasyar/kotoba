@@ -1,0 +1,438 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin",
+    "trunk/kotoba-ib/log",
+    "trunk/kotoba-ib/stat",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "trunk/kotoba-ib/securimage",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/css",
+    "trunk/kotoba-ib/lib",
+    "trunk/kotoba-ib/locale",
+    "trunk/kotoba-ib/locale/eng",
+    "trunk/kotoba-ib/locale/rus",
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale",
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng",
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/rus",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/locale",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/locale/eng",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/locale/rus",
+    "trunk/kotoba-ib/res/old_bkps",
+    "trunk/kotoba-ib/phpdoc",
+    "trunk/kotoba-ib/res/phpdoc",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor/Converters",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor/Converters/HTML",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor/Converters/HTML/Smarty",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor/Converters/HTML/Smarty/templates",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor/Converters/HTML/Smarty/templates/PHP",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor/Converters/HTML/Smarty/templates/PHP/templates",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor/Smarty-2.6.0",
+    "trunk/kotoba-ib/res/phpdoc/phpDocumentor/Smarty-2.6.0/libs",
+    "trunk/kotoba-ib/docs",
+    "trunk/kotoba-ib/latexcache",
+    "trunk/kotoba-ib/captcha",
+    "trunk/kotoba-ib/shi",
+    "trunk/kotoba-ib/css/kusaba.css",
+    "trunk/kotoba-ib/css/futaba.css",
+    "trunk/kotoba-ib/animaptcha"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib": {
+      "svn:ignore": "config.php\nd\nb\nrm\ntest\na\nn\nmanual.7z\nazu\nhd\nmisc\nmanual\ntest_s\nbkp.7z\ndesu\n.htaccess\nflower.png\nazu34\ntits\nThumbs.db\ntan\n"
+    },
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/animaptcha": {
+      "svn:ignore": "*.png\n"
+    },
+    "trunk/kotoba-ib/css": {
+      "svn:ignore": "*.7z\n"
+    },
+    "trunk/kotoba-ib/css/delete.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/delfile.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/favorites.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/futaba.css/closed.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/futaba.css/delete.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/futaba.css/delfile.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/futaba.css/favorites.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/futaba.css/hide.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/futaba.css/report.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/futaba.css/sticky.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/hide.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/kusaba.css/closed.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/kusaba.css/delete.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/kusaba.css/delfile.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/kusaba.css/favorites.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/kusaba.css/hide.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/kusaba.css/report.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/kusaba.css/sticky.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/quote.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/css/report.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/docs": {
+      "svn:ignore": "*\n"
+    },
+    "trunk/kotoba-ib/flower.png": {
+      "svn:executable": "*",
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/img": {
+      "svn:ignore": "txt.png\n"
+    },
+    "trunk/kotoba-ib/img/deleted.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/img/spoiler.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/latexcache": {
+      "svn:ignore": "*.png\n"
+    },
+    "trunk/kotoba-ib/lib": {
+      "svn:ignore": "shi_save.php\n"
+    },
+    "trunk/kotoba-ib/locale/eng/errors.php": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/log": {
+      "svn:ignore": "*.log\n"
+    },
+    "trunk/kotoba-ib/phpdoc": {
+      "svn:ignore": "*\n"
+    },
+    "trunk/kotoba-ib/res": {
+      "svn:ignore": "*kotoba bkp.sql\nrestore base.bat\nrestore base struct.bat\nlogo.png\nkotoba.jpg\ncolor-dynamics.txt\nphp5.2decode\nkotoba-er.jpeg\ndots\nold_bkps\nThumbs.db\ninstall_*.7z\n"
+    },
+    "trunk/kotoba-ib/res/bkp_task.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/create_install7z.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/dump base bkp.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/dump base struct.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/generate_doc.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/install2.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/kotoba.dia": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/old_bkps": {
+      "svn:ignore": "*kotoba bkp.sql\n"
+    },
+    "trunk/kotoba-ib/res/patch_1.sql": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/patch_X.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/patch_phpdoc.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/patch_to_revision_201.sql": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/patch_to_revision_263.sql": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/restore base struct.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/restore base.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/update_432.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/res/update_433.sh": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/securimage": {
+      "svn:ignore": "elephant.ttf\nexample_form.php\ngdfonts\nimages\nLICENSE.txt\nREADME.txt\nsecurimage_example.php\nsecurimage.php\nsecurimage_play.php\nsecurimage_show.php\n"
+    },
+    "trunk/kotoba-ib/sessions": {
+      "svn:ignore": "sess_*\n"
+    },
+    "trunk/kotoba-ib/shi": {
+      "svn:ignore": "*\n"
+    },
+    "trunk/kotoba-ib/smarty": {
+      "svn:ignore": "Config_File.class.php\ndemo\nSmarty_Compiler.class.php\nplugins\nlibs\ndebug.tpl\nCOPYING.lib\ninternals\nSmarty.class.php\nREADME\nSMARTY2_BC_NOTES\n"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/adm_panel.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/banned.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/board_list.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_acl.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_bans.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_board_upload_types.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_boards.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_categories.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_groups.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_languages.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_popdown_handlers.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_settings.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_stylesheets.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_threads.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_upload_handlers.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_upload_types.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/edit_user_groups.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/error.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/footer.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/header.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/index.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/manage.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/mod_mini_panel.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/mod_panel.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/my_id.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/pages_list.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/post_original.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/post_simple.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/remove_post.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/same_attachments.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/threads_settings_list.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates/locale/eng/uwb4tp.tpl": {
+      "svn:executable": "*"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/locale/eng": {
+      "svn:ignore": "*\n"
+    },
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/locale/rus": {
+      "svn:ignore": "*\n"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "565",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/private/private.xml",
+      "Text-content-length": "565",
+      "Text-content-md5": "10c9453b39130f00dd997a4c602bc9f4",
+      "Text-content-sha1": "3c754d80f5793f1caf0266a1b7909dce1338d7e8"
+    },
+    {
+      "Content-length": "192228",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/create_procedures.sql",
+      "Text-content-length": "192228",
+      "Text-content-md5": "d7dcc9b888b09611c5f42937984bfc8e",
+      "Text-content-sha1": "5106960ecd06f3ac395a23bef7607e2c36bb24cd"
+    },
+    {
+      "Content-length": "19425",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/create_struct.sql",
+      "Text-content-length": "19425",
+      "Text-content-md5": "d9cdc26e65dd769620d8489e49f5036b",
+      "Text-content-sha1": "6ae4f2bfa919a63c4580483469501bbbff017cab"
+    },
+    {
+      "Content-length": "1952",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/kotoba_highload_test.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1942",
+      "Text-content-md5": "343518a274f19cdb9a8ab63bd6522560",
+      "Text-content-sha1": "5f447062a0923351bf3b0feaad21193a669e57a2"
+    },
+    {
+      "Content-length": "1321",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/patch_13.sql",
+      "Prop-content-length": "10",
+      "Text-content-length": "1311",
+      "Text-content-md5": "ff5e413a1f4d07900ae4c0383f54aaeb",
+      "Text-content-sha1": "87f200d07c10420978b88d54e30afdd56d05f864"
+    },
+    {
+      "Content-length": "1616",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/update_434_435.sh",
+      "Prop-content-length": "10",
+      "Text-content-length": "1606",
+      "Text-content-md5": "14e3420706d9730dc394be20fa0c2162",
+      "Text-content-sha1": "bd075d313e353e4ac62b3c0c1b3f7d9d7eb11ed7"
+    }
+  ],
+  "path": "trunk",
+  "revision": 435,
+  "revision_properties": {
+    "google:author": "sorcchan@gmail.com",
+    "svn:author": "sorcchan@gmail.com",
+    "svn:date": "2011-05-29T09:38:16.730005Z",
+    "svn:log": "Duplicate posts bug fixed. Duplicate posts restriction added. New field in threads table to improve queries. Highload test script added. Use update_434_435.sh script to update."
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "8748",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/createthread.php",
+      "Text-content-length": "8748",
+      "Text-content-md5": "52a6810e41e1273c0f6938271221037c",
+      "Text-content-sha1": "7f453708e6202f48cef9e34d937717f9c1f4529d"
+    },
+    {
+      "Content-length": "4742",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/database_common.php",
+      "Text-content-length": "4742",
+      "Text-content-md5": "c133ed925eb36e61b3d044f51b539730",
+      "Text-content-sha1": "574f51c2caaaa930e01fbe3cbc2eec66b2d7cae4"
+    },
+    {
+      "Content-length": "1042",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/database_connect.php",
+      "Text-content-length": "1042",
+      "Text-content-md5": "1a8e7bd55157e3f09aecf010d7b2592e",
+      "Text-content-sha1": "0c1aade1c7118f63d93e4dc7f0d10805e1e689b8"
+    },
+    {
+      "Content-length": "11477",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/post_processing.php",
+      "Text-content-length": "11477",
+      "Text-content-md5": "043f3d585d9a769bda84db4d5c3f5dec",
+      "Text-content-sha1": "c2b360b7a82b2e10cb415eebc41035e6d4e2a8df"
+    },
+    {
+      "Content-length": "19734",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/preview.php",
+      "Text-content-length": "19734",
+      "Text-content-md5": "4334a918939f030fda85d28c1e57879f",
+      "Text-content-sha1": "5b65dbaffe89ca02064c7d9441a8a48ad98e7fc1"
+    },
+    {
+      "Content-length": "8002",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba-tables.sql",
+      "Text-content-length": "8002",
+      "Text-content-md5": "c3f5dfc60aa17a67b076b5586ef12bec",
+      "Text-content-sha1": "0d3379f447e2db1cdbf265aafdd2d8a02415da10"
+    },
+    {
+      "Content-length": "30887",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba.sql",
+      "Text-content-length": "30887",
+      "Text-content-md5": "1cced73d2abb7d4bffe82d5fc8e7acb1",
+      "Text-content-sha1": "6dbff68b2947c796c661a04bc5ea2ff3f556027d"
+    },
+    {
+      "Content-length": "1313",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/board_preview.tpl",
+      "Text-content-length": "1313",
+      "Text-content-md5": "7da773b9ec315f837ac5ab1095984bad",
+      "Text-content-sha1": "314fd031b0471c327db1d11e2ec0c4a88a4d71ef"
+    },
+    {
+      "Content-length": "214",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/board_preview_footer.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "204",
+      "Text-content-md5": "2e576004a09f6abaf2a8d94b40405682",
+      "Text-content-sha1": "8d91d9a449298a9e509d95345c90b8b23e968536"
+    },
+    {
+      "Content-length": "3266",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/post_original.tpl",
+      "Text-content-length": "3266",
+      "Text-content-md5": "0bd1bd91999c71b5a937fc9c7fb2611c",
+      "Text-content-sha1": "1a1443660bf7606358e00f6f93bab50132691583"
+    },
+    {
+      "Content-length": "10812",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/threads.php",
+      "Text-content-length": "10812",
+      "Text-content-md5": "699b959d19ff035d1c44f62eeb3fe0b2",
+      "Text-content-sha1": "887d7cfa038c0a4f878b726d8efaf464eefd0d98"
+    }
+  ],
+  "path": "/",
+  "revision": 85,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-06-05T12:11:00.677613Z",
+    "svn:log": "* Board preview works\n* Creating new threads works (if created from board preview)\n* Table uploads changes: original file name field, uploaded file size field\n + related procedures changed for support new fields\n* Base file-types now created automatically\n\n"
+  }
+}

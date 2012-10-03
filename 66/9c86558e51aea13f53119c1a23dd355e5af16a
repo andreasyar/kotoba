@@ -1,0 +1,58 @@
+{
+  "directories": [
+    "branches/kotoba-ib",
+    "branches/kotoba-ib/smarty",
+    "branches/kotoba-ib/smarty/kotoba",
+    "branches/kotoba-ib/smarty/kotoba/templates",
+    "branches/kotoba-ib/smarty/internals",
+    "branches/kotoba-ib/smarty/plugins",
+    "branches/kotoba-ib/smarty/kotoba/cache",
+    "branches/kotoba-ib/smarty/kotoba/configs",
+    "branches/kotoba-ib/smarty/kotoba/templates_c",
+    "branches/kotoba-ib/sessions",
+    "branches/kotoba-ib/res",
+    "branches/kotoba-ib/nbproject",
+    "branches/kotoba-ib/nbproject/private",
+    "branches/kotoba-ib/stat",
+    "branches/kotoba-ib/smarty/kotoba/cache/English",
+    "branches/kotoba-ib/smarty/kotoba/cache/Russian",
+    "branches/kotoba-ib/smarty/kotoba/configs/English",
+    "branches/kotoba-ib/smarty/kotoba/configs/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates/English",
+    "branches/kotoba-ib/smarty/kotoba/templates/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/English",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "branches/kotoba-ib/admin",
+    "branches/kotoba-ib/lang",
+    "branches/kotoba-ib/lang/English",
+    "branches/kotoba-ib/lang/Russian",
+    "branches/kotoba-ib/log"
+  ],
+  "node_properties": {
+    "branches/kotoba-ib": {
+      "svn:ignore": ".xt.xt\n"
+    },
+    "branches/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib-database/createthread.php",
+      "Node-copyfrom-rev": "151",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/createthread.php",
+      "Text-copy-source-md5": "46312df8afa7f6c91529c45479dd47c2",
+      "Text-copy-source-sha1": "0b97ec953e862836e5972bc63422bcc41a2d46f7"
+    }
+  ],
+  "path": "branches/kotoba-ib",
+  "revision": 152,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-09-13T10:35:20.537499Z",
+    "svn:log": "Ветвление для скрипта создания нитей."
+  }
+}

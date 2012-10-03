@@ -1,0 +1,29 @@
+{
+  "directories": [
+    "branches/kotoba"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "2470",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/index.php",
+      "Text-content-length": "2470",
+      "Text-content-md5": "3ff059be4bfab6a026e45cd2c52e41ee",
+      "Text-content-sha1": "86331eb1e27badffade4462f5d5f87ef79669c62"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 105,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T08:28:20.315565Z",
+    "svn:log": ""
+  }
+}

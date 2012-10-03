@@ -1,0 +1,54 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "32220",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "32220",
+      "Text-content-md5": "ba2d815c1f7b8e5b64946c9c2bffd137",
+      "Text-content-sha1": "d2c0ee29eaa240fd84f7b7b11893b1ca5bb387aa"
+    },
+    {
+      "Content-length": "30794",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "30794",
+      "Text-content-md5": "3356c13a9061ede32c5b52c1b844301d",
+      "Text-content-sha1": "1e371fdc7ae15111800080130001c9d5f30b2cbb"
+    }
+  ],
+  "path": "/",
+  "revision": 25,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-20T06:09:32.139788Z",
+    "svn:log": "Проверка типа при разборе ссылок на посты в рамках борды."
+  }
+}

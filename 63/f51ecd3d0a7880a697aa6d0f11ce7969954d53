@@ -1,0 +1,124 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "999",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/error_processing.php",
+      "Text-content-length": "999",
+      "Text-content-md5": "2937a4283776ef61914b92f69900949f",
+      "Text-content-sha1": "631dd90ba90a64b21f6e051a527af09554340b66"
+    },
+    {
+      "Content-length": "2130",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/index.php",
+      "Text-content-length": "2130",
+      "Text-content-md5": "f6e9a8008d6d34c0388b4f1ff919551b",
+      "Text-content-sha1": "5a88790eb1c99f3448feaa0160f36993aa499e5f"
+    },
+    {
+      "Content-length": "558",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/error.tpl",
+      "Text-content-length": "558",
+      "Text-content-md5": "2cfdc1f91518f86ff93d8f7255a9ac18",
+      "Text-content-sha1": "39470947a127c9eab1b2dc1e3c938ae8a021829a"
+    },
+    {
+      "Content-length": "420",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/footer.tpl",
+      "Text-content-length": "420",
+      "Text-content-md5": "cce5923f2f14669bcd5b25c22b61249f",
+      "Text-content-sha1": "8968baa52ba7d3eff7cadf39a227068a9a6faafa"
+    },
+    {
+      "Content-length": "890",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/header.tpl",
+      "Text-content-length": "890",
+      "Text-content-md5": "91900627430d93b36e81a1dd17bda87b",
+      "Text-content-sha1": "67a84956793aa6efa25a8e42b69baf3f7f155384"
+    },
+    {
+      "Content-length": "1108",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/index.tpl",
+      "Text-content-length": "1108",
+      "Text-content-md5": "cb2ae289da28a5f13f8731e8a85490ec",
+      "Text-content-sha1": "35b1c9a490fa22b8f6a15e607d1b0d1c07e55d46"
+    },
+    {
+      "Content-length": "4287",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/post_original.tpl",
+      "Text-content-length": "4287",
+      "Text-content-md5": "9e0bf92bb131284927d890e2695fa3ea",
+      "Text-content-sha1": "0483c729dc1766382eaa9428b3457ae04c8a6e06"
+    },
+    {
+      "Content-length": "3319",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/post_simple.tpl",
+      "Text-content-length": "3319",
+      "Text-content-md5": "34977157ce80618ef8a9e15b47c132ed",
+      "Text-content-sha1": "6410d7ddf33abf612724d061918a385b74064a46"
+    },
+    {
+      "Content-length": "10811",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "10811",
+      "Text-content-md5": "2c14b9b5cac33872422cc62336c95821",
+      "Text-content-sha1": "c358307a21ae7e62f1182ba8379d5a4ad57b85c6"
+    }
+  ],
+  "path": "/",
+  "revision": 63,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-04-26T00:53:28.264592Z",
+    "svn:log": "Шаблонизирован вывод просмотра тредов. Обновлен вывод ошибок на главной странице. Исправлены опечатки. Другие небольшие изменения."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "32230",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "32230",
+      "Text-content-md5": "607809f4bdd469ca4b999abdf625ed5d",
+      "Text-content-sha1": "beb44063d43b5879a15257c7d809bf3e15a3c44d"
+    },
+    {
+      "Content-length": "11272",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "11272",
+      "Text-content-md5": "916143a83fb03bfd1c632184161e6498",
+      "Text-content-sha1": "853687e8fbee23f4a42fd90dd827f224353a5353"
+    },
+    {
+      "Content-length": "31135",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "31135",
+      "Text-content-md5": "141650f302b77ccfc5c1c4428e0f56e9",
+      "Text-content-sha1": "38f5f3af3f22e4a79f45914b2058e90d327605f5"
+    }
+  ],
+  "path": "/",
+  "revision": 24,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-19T16:17:38.148256Z",
+    "svn:log": "Добавлены ссылки на посты в рамках всей борды. Добавлены константы для сбора статистики. Добавлена проверка при вычислении хеша файла. Другие мелкие исправления."
+  }
+}

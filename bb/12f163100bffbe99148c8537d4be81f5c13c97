@@ -1,0 +1,67 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/Thumbs.db": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/Thumbs.db": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "5880",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "5880",
+      "Text-content-md5": "5ffa3e2a11ddcb4190bca0bb694ae53d",
+      "Text-content-sha1": "cf3d47442162e91b31a30ddd20d0b9c6d21c538e"
+    },
+    {
+      "Content-length": "436",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/private/private.xml",
+      "Text-content-length": "436",
+      "Text-content-md5": "cb08498bcae9a01bb3f1b275b22486b0",
+      "Text-content-sha1": "e0a272f6ac3604ca8edd854c46de444d4960f167"
+    },
+    {
+      "Content-length": "17400",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "17400",
+      "Text-content-md5": "bbe71ccd40ba0e226a9b8b89b13a52df",
+      "Text-content-sha1": "ece11bc2afac2a934e085c991b2eaa2b125003cb"
+    }
+  ],
+  "path": "trunk",
+  "revision": 3,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-06T16:04:12.440656Z",
+    "svn:log": "Начато обновление preview всвязи с новой системой сбора статистики и изменений в конфигурационном файле и бд."
+  }
+}

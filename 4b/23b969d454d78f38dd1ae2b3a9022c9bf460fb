@@ -1,0 +1,169 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "10348",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/createthread.php",
+      "Text-content-length": "10348",
+      "Text-content-md5": "46312df8afa7f6c91529c45479dd47c2",
+      "Text-content-sha1": "0b97ec953e862836e5972bc63422bcc41a2d46f7"
+    },
+    {
+      "Content-length": "8793",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/database_common.php",
+      "Text-content-length": "8793",
+      "Text-content-md5": "9f7dc84c9d8afe519f5a3cb05cbb5141",
+      "Text-content-sha1": "3f48dcbc02db8698b58dee493ae5cbce6a991928"
+    },
+    {
+      "Content-length": "3795",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/kotoba.css",
+      "Text-content-length": "3795",
+      "Text-content-md5": "6c7be53968060bafca19d7871593b3ed",
+      "Text-content-sha1": "195938a85eafb293a1169024cf6ae59c498af7db"
+    },
+    {
+      "Content-length": "128",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/kotoba.js",
+      "Prop-content-length": "10",
+      "Text-content-length": "118",
+      "Text-content-md5": "0fd96e754ee0d1188e88b822576dd52d",
+      "Text-content-sha1": "d92e18e28a803fc8aece3d6ee1ed3e1c510955b9"
+    },
+    {
+      "Content-length": "23362",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/mark.php",
+      "Text-content-length": "23362",
+      "Text-content-md5": "af3609fd91156294abc6f2b61fdc595b",
+      "Text-content-sha1": "bbfe32b48bb116be1614e79fb75db3fa7cf65e90"
+    },
+    {
+      "Content-length": "5028",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/removepost.php",
+      "Text-content-length": "5028",
+      "Text-content-md5": "066cd1f35aeea212ca84970c3ef90792",
+      "Text-content-sha1": "3e24d30fc05db5c19faa2376cd825aca45326c56"
+    },
+    {
+      "Content-length": "11709",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/reply.php",
+      "Text-content-length": "11709",
+      "Text-content-md5": "d5449d2e28a9d9dcdb85a93e009726bb",
+      "Text-content-sha1": "0d7a19a332dc3497471a06a38af043aa2590ada8"
+    },
+    {
+      "Content-length": "45869",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba.sql",
+      "Text-content-length": "45869",
+      "Text-content-md5": "dceb7ce7db1332ed8f0341612478ab6c",
+      "Text-content-sha1": "7839fac5bd4b0ebbf718ec58a626b09e404604cb"
+    },
+    {
+      "Content-length": "944",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/header.tpl",
+      "Text-content-length": "944",
+      "Text-content-md5": "213a080546d9ef263bacfd7b1a4260a6",
+      "Text-content-sha1": "ec5bc13978b9436494799f5f2a47400fc9a4b6fa"
+    },
+    {
+      "Content-length": "7322",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/threads.php",
+      "Text-content-length": "7322",
+      "Text-content-md5": "4ed403daf008f2668f8a7d9527b1fd50",
+      "Text-content-sha1": "8b7f51655ab9dfefbeaf4bca414eb239ca84923e"
+    }
+  ],
+  "path": "/",
+  "revision": 101,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-07-10T13:10:15.426238Z",
+    "svn:log": "* posts deletion logic reviewed\n* now uploads deleted too\n* undefined variables warnings fixed\n* new procedures: sp_remove_upload sp_lost_uploads sp_thread_flags\n* now you cannot post to deleted thread\n\n"
+  }
+}

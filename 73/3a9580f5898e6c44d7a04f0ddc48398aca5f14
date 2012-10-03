@@ -1,0 +1,44 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "1117",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Apache.txt",
+      "Prop-content-length": "10",
+      "Text-content-length": "1107",
+      "Text-content-md5": "f4672a1e2dd17b0d29a406b362838cb8",
+      "Text-content-sha1": "a28ad1c3c1614c17438ca281337b549c6ce0e564"
+    }
+  ],
+  "path": "trunk",
+  "revision": 17,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-16T04:56:34.910362Z",
+    "svn:log": "Добавлено частичное описание необходимых настроек апача."
+  }
+}

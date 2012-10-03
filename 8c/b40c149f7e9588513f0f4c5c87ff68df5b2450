@@ -1,0 +1,106 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "6049",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "6049",
+      "Text-content-md5": "39ac45d1666489edf3952d03450d63ad",
+      "Text-content-sha1": "f4bb03f11941a44d4ee5065e774ad51b826c1f39"
+    },
+    {
+      "Content-length": "21756",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "21756",
+      "Text-content-md5": "8c9e461c7ef603319aa00ade670ebed2",
+      "Text-content-sha1": "43ef560c9c60630ce31bb837cee7b416acedaa01"
+    },
+    {
+      "Content-length": "1407",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/dbfixforrev44.php",
+      "Text-content-length": "1407",
+      "Text-content-md5": "dce7409641d46f46118a35b28b057270",
+      "Text-content-sha1": "be7976e604acddc73e7eb41eb0e2fb307a489cce"
+    },
+    {
+      "Content-length": "9288",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/post_processing.php",
+      "Text-content-length": "9288",
+      "Text-content-md5": "98e53c6bbd556e88ff4511ba57ab9e46",
+      "Text-content-sha1": "7841c73dbc6f050e13caf2396d454a4643b0c12c"
+    },
+    {
+      "Content-length": "19439",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "19439",
+      "Text-content-md5": "1b0619592b85ff78dcd48572d39fc52a",
+      "Text-content-sha1": "76199f0ee16777e851cd4ad021c145c14c1291f1"
+    },
+    {
+      "Content-length": "21291",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "21291",
+      "Text-content-md5": "2fb0aa3d9bba96ce2bb6c8a154256255",
+      "Text-content-sha1": "015011fd05772276b35a53a19a20d409f3f83800"
+    },
+    {
+      "Content-length": "12640",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "12640",
+      "Text-content-md5": "32b6e92fb895f9fe68f6bc5a0ffa5989",
+      "Text-content-sha1": "7a00ecdac72f7b3a254428f77bf0031f5d73727f"
+    }
+  ],
+  "path": "/",
+  "revision": 55,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-21T12:24:46.616492Z",
+    "svn:log": "starting refactoring of reply\ndue above some functions in post_processing rewritten and createthread \n changed accordingly\nfunction GetSettings in common become get_settings due to code conventions\n and all depending files are fixed\n\n\n"
+  }
+}

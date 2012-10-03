@@ -1,0 +1,73 @@
+{
+  "directories": [
+    "branches/kotoba",
+    "branches/kotoba/smarty",
+    "branches/kotoba/smarty/kotoba",
+    "branches/kotoba/smarty/kotoba/cache",
+    "branches/kotoba/smarty/kotoba/configs",
+    "branches/kotoba/smarty/kotoba/templates",
+    "branches/kotoba/smarty/kotoba/templates_c",
+    "branches/kotoba/smarty/internals",
+    "branches/kotoba/smarty/plugins"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib-database/smarty/Config_File.class.php",
+      "Node-copyfrom-rev": "111",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/smarty/Config_File.class.php",
+      "Text-copy-source-md5": "173ef5f3d2d10fc9c314b0f44ef963fd",
+      "Text-copy-source-sha1": "862131ad502c072de26a32f69eb5092621e28454"
+    },
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib-database/smarty/Readme.txt",
+      "Node-copyfrom-rev": "111",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/smarty/Readme.txt",
+      "Text-copy-source-md5": "a915ca0c5eb996bcc4bb8da5d2a801e8",
+      "Text-copy-source-sha1": "da046ba6947a67556ef0e4e8417e0843c45c3e4a"
+    },
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib-database/smarty/Smarty.class.php",
+      "Node-copyfrom-rev": "111",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/smarty/Smarty.class.php",
+      "Text-copy-source-md5": "088cf7410c17930d517e920da56083c5",
+      "Text-copy-source-sha1": "2033372348a0b790fe05e876176d7de5ca61d40a"
+    },
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib-database/smarty/Smarty_Compiler.class.php",
+      "Node-copyfrom-rev": "111",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/smarty/Smarty_Compiler.class.php",
+      "Text-copy-source-md5": "72137324bfeea8b7039036992569e903",
+      "Text-copy-source-sha1": "f6f51aad4f17eebaa200d252bab28daf6a6eb94e"
+    },
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib-database/smarty/debug.tpl",
+      "Node-copyfrom-rev": "111",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/smarty/debug.tpl",
+      "Text-copy-source-md5": "def6c6e062941c8b2986f9f977b26307",
+      "Text-copy-source-sha1": "f7b831c4f97b0b2e798a02188ee451af18193624"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 112,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T08:56:42.591435Z",
+    "svn:log": ""
+  }
+}

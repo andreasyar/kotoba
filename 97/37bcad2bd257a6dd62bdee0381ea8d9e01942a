@@ -1,0 +1,101 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "2298",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/admin/board-filetypes.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "2288",
+      "Text-content-md5": "afc799541dbe1d3af45b06ad27e7a7ee",
+      "Text-content-sha1": "b0b43f63e286d89a56c056d2b7d5e0f713c876d3"
+    },
+    {
+      "Content-length": "4352",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/admin/boards.php",
+      "Text-content-length": "4352",
+      "Text-content-md5": "a2dd33390c33601a0e5a84ffa11b42a1",
+      "Text-content-sha1": "dd4ef4d3a1b6fe041c46ac8c800055c3e8ac7367"
+    },
+    {
+      "Content-length": "24988",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/kotoba.sql",
+      "Text-content-length": "24988",
+      "Text-content-md5": "d0f9fb855e1dc9962a63f8cdd9da1917",
+      "Text-content-sha1": "12d2fd289aaa1400675b6faf49db8f712a55265f"
+    },
+    {
+      "Content-length": "1261",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/adm_boardline.tpl",
+      "Text-content-length": "1261",
+      "Text-content-md5": "c6a1ad9a6faeef07f953b6855e7a852b",
+      "Text-content-sha1": "a9e95aeb0906d637d6f23dc18e32a859ef0aa9ae"
+    },
+    {
+      "Content-length": "906",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/adm_boardsview.tpl",
+      "Text-content-length": "906",
+      "Text-content-md5": "3d79ff7a9c1da9a24e8715e1abde3a0e",
+      "Text-content-sha1": "7923aabf24c3f0df8ccc3e4f1d01aa5046384fc3"
+    },
+    {
+      "Content-length": "602",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/adm_boardtypesview.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "592",
+      "Text-content-md5": "24cff0a5686b2831d08987181674cb00",
+      "Text-content-sha1": "37783e44c12cfd24690f79829116748f9e624070"
+    }
+  ],
+  "path": "trunk",
+  "revision": 78,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-05-29T12:26:00.142330Z",
+    "svn:log": "* add new admin script for manage filetypes in boards\n* boards admin script support for filetypes\n* new procedures: sp_get_board_filetypes sp_delete_board_filetypes sp_delete_board_filetype\n"
+  }
+}

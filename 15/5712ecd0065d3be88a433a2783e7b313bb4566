@@ -1,0 +1,70 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "21732",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "21732",
+      "Text-content-md5": "b8f965f842ee63acf524ca33c887277c",
+      "Text-content-sha1": "54bd7eed5bc1b2bac648c54935fbc7d27172b2f3"
+    },
+    {
+      "Content-length": "9111",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/post_processing.php",
+      "Text-content-length": "9111",
+      "Text-content-md5": "d74e61162107ca3f06a6eee2d77b97b4",
+      "Text-content-sha1": "312d191b3e6e7474f68a8d62d856735d45b18f04"
+    },
+    {
+      "Content-length": "29080",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "29080",
+      "Text-content-md5": "fa7a4db0339410a576e4c2b4e9e2d68c",
+      "Text-content-sha1": "148e63fd0ca084b69da7ea6d8f834b12f7d1e5fc"
+    }
+  ],
+  "path": "/",
+  "revision": 53,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-18T10:29:56.101668Z",
+    "svn:log": "post_processing and related files with new code conventions"
+  }
+}

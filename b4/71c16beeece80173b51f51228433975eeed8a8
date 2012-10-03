@@ -1,0 +1,119 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "6044",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "6044",
+      "Text-content-md5": "1e0d34035faf4810dcc38a0b8a0a1d7c",
+      "Text-content-sha1": "d4e82b922a158c5ac5b6584f20268e8e04178d2b"
+    },
+    {
+      "Content-length": "20783",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "20783",
+      "Text-content-md5": "d1074919cd15cee90e39fafc102f966b",
+      "Text-content-sha1": "d9e8ea1be7ee3c70ce3158cf64750c2696fe079e"
+    },
+    {
+      "Content-length": "582",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/error_processing.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "572",
+      "Text-content-md5": "7d2f730e39291742b6005222742d6325",
+      "Text-content-sha1": "6b5a9064ed6b367ebdea72078ddd92c9a847d8e4"
+    },
+    {
+      "Content-length": "9316",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/post_processing.php",
+      "Text-content-length": "9316",
+      "Text-content-md5": "65eb01d1fb8d478d83638960ed3b767b",
+      "Text-content-sha1": "775ecc2727e151a9c67db26fedacdfaff9662241"
+    },
+    {
+      "Content-length": "20198",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "20198",
+      "Text-content-md5": "1a22ca4ff5c6e9793c965093434c43bc",
+      "Text-content-sha1": "797167c83b594fc5394f436aa3faf21fe36bb1c2"
+    },
+    {
+      "Content-length": "137",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/error.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "127",
+      "Text-content-md5": "48fa43e5a0023e0e4282788352afdba2",
+      "Text-content-sha1": "e399cb0c2b6357e231cfbc4240dac5fc23f5fa84"
+    },
+    {
+      "Content-length": "26",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/footer.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "16",
+      "Text-content-md5": "1fff66eff9242eee8ec3324428e15032",
+      "Text-content-sha1": "7bdb1e034041cbf3313dc597518e44660d3c2392"
+    },
+    {
+      "Content-length": "208",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/header.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "198",
+      "Text-content-md5": "cf665ce23a0e4a001512195a287bcd72",
+      "Text-content-sha1": "2c9a8df2434d439cd6d0bc92353bb7988ed0e905"
+    }
+  ],
+  "path": "/",
+  "revision": 56,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-22T12:31:55.261720Z",
+    "svn:log": "error reporting module with templates. All html output removed from createthread and reply"
+  }
+}

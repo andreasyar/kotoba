@@ -1,0 +1,115 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin",
+    "trunk/kotoba-ib/log",
+    "trunk/kotoba-ib/modules",
+    "trunk/kotoba-ib/modules/lang",
+    "trunk/kotoba-ib/modules/lang/English",
+    "trunk/kotoba-ib/modules/lang/Russian",
+    "trunk/kotoba-ib/smarty/kotoba/templates/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates/Russian",
+    "trunk/kotoba-ib/stat",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "trunk/kotoba-ib/securimage",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/css"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.dia": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "108517",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/cache.php",
+      "Text-content-length": "108517",
+      "Text-content-md5": "5f41c09b48e34d536926ae1ec056724b",
+      "Text-content-sha1": "dfc193768128870722935fae1faf0263132d58d6"
+    },
+    {
+      "Content-length": "126414",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/db.php",
+      "Text-content-length": "126414",
+      "Text-content-md5": "499fd9de3738ddc31922664bf4cf5366",
+      "Text-content-sha1": "a1f394bd42b6e4ac6ff29d83d2bd49858caffcc9"
+    },
+    {
+      "Content-length": "97861",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/stored procedures.sql",
+      "Text-content-length": "97861",
+      "Text-content-md5": "6744b7f0035abef7e40d8e3778198326",
+      "Text-content-sha1": "0b69a8f8f98afd328b071e6dab3bd7af8802df5b"
+    },
+    {
+      "Content-length": "16264",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/tables.sql",
+      "Text-content-length": "16264",
+      "Text-content-md5": "682ac7105e4add4b32c3461bb23fdf1f",
+      "Text-content-sha1": "48eadc36bdf0aa782100afe63ed17e7d28a15c48"
+    }
+  ],
+  "path": "trunk",
+  "revision": 218,
+  "revision_properties": {
+    "google:author": "sorcchan",
+    "svn:author": "sorcchan",
+    "svn:date": "2010-03-24T15:23:49.869355Z",
+    "svn:log": ""
+  }
+}

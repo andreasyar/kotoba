@@ -1,0 +1,63 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "25333",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "25333",
+      "Text-content-md5": "c411ff810e55715fc6cb49147d4e428c",
+      "Text-content-sha1": "10e1b62daf3c962b6a60dde143e7c1e64845984b"
+    },
+    {
+      "Content-length": "8738",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "8738",
+      "Text-content-md5": "5f77425dccc710f981856759bcbb0760",
+      "Text-content-sha1": "17f114d17a808efb35ad89d516cbd763a9422079"
+    },
+    {
+      "Content-length": "25112",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "25112",
+      "Text-content-md5": "e8042ced50e4f6836f16e2a0e6d0baf2",
+      "Text-content-sha1": "a52724ffcfc74fff37764191c9ee5c0c7f945717"
+    }
+  ],
+  "path": "/",
+  "revision": 8,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-11T08:34:42.518398Z",
+    "svn:log": "Переделан скрипт ответа в тред в соответствии с новой системой сбора статистики. Переименованы и давлены некоторые константы. Другие мелкие исправления."
+  }
+}

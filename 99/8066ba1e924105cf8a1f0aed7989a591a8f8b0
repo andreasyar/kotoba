@@ -1,0 +1,212 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4502",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/admin/boards.php",
+      "Text-content-length": "4502",
+      "Text-content-md5": "6af801585a91c2e18c804430038c39a9",
+      "Text-content-sha1": "70b1ed336bb42cc8cb97ac6bd152e3ee6ba5ddfe"
+    },
+    {
+      "Content-length": "4027",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/common.php",
+      "Text-content-length": "4027",
+      "Text-content-md5": "e81b9247ce21d3e671e864784bd66d09",
+      "Text-content-sha1": "a3ba44a3e0c142ea33910d60b78519bbc632a0b5"
+    },
+    {
+      "Content-length": "3111",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/config.default",
+      "Text-content-length": "3111",
+      "Text-content-md5": "1d2dc2b6809c3df74626238ae1c81247",
+      "Text-content-sha1": "fc9b2a17e4cf60687725a71d5f92fbe05e7eb42c"
+    },
+    {
+      "Content-length": "9963",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/createthread.php",
+      "Text-content-length": "9963",
+      "Text-content-md5": "12d2633c24d00766b3d3546b5442ca56",
+      "Text-content-sha1": "be08b2de000cd89bca9e500fe9fd628c48feb511"
+    },
+    {
+      "Content-length": "6116",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/database_common.php",
+      "Text-content-length": "6116",
+      "Text-content-md5": "3a5df24308395a19bfe37ca179d4d031",
+      "Text-content-sha1": "9d52eda1547dcfcb0267afdf41b743a0ec10bca4"
+    },
+    {
+      "Content-length": "23208",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/mark.php",
+      "Text-content-length": "23208",
+      "Text-content-md5": "28a64ea172aa15f51a61a96a74eaa29a",
+      "Text-content-sha1": "7e30d20ded094af5d60b56bee1633d32204d7493"
+    },
+    {
+      "Content-length": "13352",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/post_processing.php",
+      "Text-content-length": "13352",
+      "Text-content-md5": "4fa525f3ea010a65e80ca683ddda2b0c",
+      "Text-content-sha1": "020217b16e0b0c4ef752d57d03635a4b580a0cd3"
+    },
+    {
+      "Content-length": "20779",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/preview.php",
+      "Text-content-length": "20779",
+      "Text-content-md5": "57ef6c02efaf1bc433a38ce2689ca653",
+      "Text-content-sha1": "259306bc6a8b538fb505845d0cd92afa0022ddc5"
+    },
+    {
+      "Content-length": "10923",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/reply.php",
+      "Text-content-length": "10923",
+      "Text-content-md5": "6b63fca817c48441374cdd608e167e29",
+      "Text-content-sha1": "81ca8a5cd24fc52fd6b57e3265658a58c48805ca"
+    },
+    {
+      "Content-length": "33733",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba.sql",
+      "Text-content-length": "33733",
+      "Text-content-md5": "3e70e86f4be28304a5cb3fd84cc743c5",
+      "Text-content-sha1": "85b800f16f33c49e7c6235bfc6ebfc9f822a0ebb"
+    },
+    {
+      "Content-length": "1442",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/board_preview.tpl",
+      "Text-content-length": "1442",
+      "Text-content-md5": "a7a3961963fc3058a6053e2c63bb8c7d",
+      "Text-content-sha1": "5e1193fcd8d49419627db6e4be68fd3442b7d3cb"
+    },
+    {
+      "Content-length": "418",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/post_same_uploads.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "408",
+      "Text-content-md5": "6280cebbd60123c1fac6f5fe954a851b",
+      "Text-content-sha1": "2e457df91361684e5b83c3b14bc190f3c34bad58"
+    },
+    {
+      "Content-length": "2952",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/threads.tpl",
+      "Text-content-length": "2952",
+      "Text-content-md5": "374d37b1940c8918931ed2d98049a4e7",
+      "Text-content-sha1": "e884024583b840b8c040bea88760e6354a0e05b5"
+    },
+    {
+      "Content-length": "19221",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/threads.php",
+      "Text-content-length": "19221",
+      "Text-content-md5": "6105282bab024bd675489fa21d4993b2",
+      "Text-content-sha1": "790ba1a8b3043693169dfa14e5c96328eda372e9"
+    },
+    {
+      "Content-length": "14626",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/thumb_processing.php",
+      "Text-content-length": "14626",
+      "Text-content-md5": "198454bd0fae389db3568350d9e347a1",
+      "Text-content-sha1": "77a22b0bdbb9908c2695a0c9c543b428eb0d7257"
+    }
+  ],
+  "path": "trunk",
+  "revision": 91,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-06-10T12:32:22.316133Z",
+    "svn:log": "* Fixed uninitialised variable warning in mark.php\n* Now you cannot upload file which type is not allowed on board.\n* and allowed file-types now showed under post form\n* Added same uploads handling. Needs testing. Also code is ugly\n* Now you may configure date-time format in config.php\n* Some modules now should work with full error_reporting\n* Added locale setup\n* changed: sp_get_post procedure returns date&time of post in unix timestamp\n* added procedures: sp_same_uploads,  sp_upload_post\n"
+  }
+}

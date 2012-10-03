@@ -1,0 +1,68 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "3226",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/login.php",
+      "Text-content-length": "3226",
+      "Text-content-md5": "a17348bcffffa0d4cb862cda694ae5f2",
+      "Text-content-sha1": "66cb3bd0e10c6dcd4530d5fb190d1956046ad36a"
+    },
+    {
+      "Content-length": "965",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/logout.php",
+      "Text-content-length": "965",
+      "Text-content-md5": "8f129e91ba5d01cfaf62ae3c9b0cc897",
+      "Text-content-sha1": "a63de70790347746b8172d7f3bf44c8d5f407ca8"
+    },
+    {
+      "Content-length": "1777",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/register.php",
+      "Text-content-length": "1777",
+      "Text-content-md5": "5a83f2486799fb1afd4bedf9d5eaaf89",
+      "Text-content-sha1": "bc42acbd919d393e511539df996fb05db8680ad8"
+    }
+  ],
+  "path": "trunk",
+  "revision": 65,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-29T12:04:58.687305Z",
+    "svn:log": "login, logout and register rewritten with templates"
+  }
+}

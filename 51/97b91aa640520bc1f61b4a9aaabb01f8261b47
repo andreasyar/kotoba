@@ -1,0 +1,75 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "22913",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "22913",
+      "Text-content-md5": "851a9af948d1e3fbb38402b6d5cc095f",
+      "Text-content-sha1": "d8449b73d6428e01a491fd961eb7d2ef1c2c6d76"
+    },
+    {
+      "Content-length": "7138",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/post_processing.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "7128",
+      "Text-content-md5": "2603e080f7c72cb5cf523bc07e8f7477",
+      "Text-content-sha1": "34fb9a22ce0cf3679d9df27c4aebf5a1a315d50a"
+    },
+    {
+      "Content-length": "12842",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "12842",
+      "Text-content-md5": "125c0b89be604313f69afe833a27c1d1",
+      "Text-content-sha1": "65d6ce6b2800a3e9e47eb88d932b8e3eb64863c1"
+    },
+    {
+      "Content-length": "10875",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php",
+      "Text-content-length": "10875",
+      "Text-content-md5": "d42d4b06c2d9373989bbf0713352f9af",
+      "Text-content-sha1": "845d5cc0b61c0ce61507846af9b92dee15c2526c"
+    }
+  ],
+  "path": "trunk",
+  "revision": 47,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-14T13:36:02.867491Z",
+    "svn:log": "Refactoring started on posting modules\nProcessing of post started to take away to post_processing.php\nImage support is in thumb_processing.php now (image types and dimensions) (imagemagick not yet)\nCaching in threads.php changed for gekko-based browsers sake\n"
+  }
+}

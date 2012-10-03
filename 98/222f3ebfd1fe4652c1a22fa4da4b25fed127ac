@@ -1,0 +1,44 @@
+{
+  "directories": [
+    "branches/kotoba-ib",
+    "branches/kotoba-ib/smarty",
+    "branches/kotoba-ib/smarty/kotoba",
+    "branches/kotoba-ib/smarty/kotoba/templates",
+    "branches/kotoba-ib/smarty/internals",
+    "branches/kotoba-ib/smarty/plugins",
+    "branches/kotoba-ib/smarty/kotoba/cache",
+    "branches/kotoba-ib/smarty/kotoba/configs",
+    "branches/kotoba-ib/smarty/kotoba/templates_c",
+    "branches/kotoba-ib/sessions",
+    "branches/kotoba-ib/res",
+    "branches/kotoba-ib/nbproject",
+    "branches/kotoba-ib/nbproject/private",
+    "branches/kotoba-ib/stat"
+  ],
+  "node_properties": {
+    "branches/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "branches/kotoba",
+      "Node-copyfrom-rev": "130",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba-ib"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba"
+    }
+  ],
+  "path": "branches/kotoba-ib",
+  "revision": 131,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T09:56:42.594642Z",
+    "svn:log": "Fix for teh greater justice."
+  }
+}

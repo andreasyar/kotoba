@@ -1,0 +1,63 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "691",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/board_list.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "681",
+      "Text-content-md5": "9b3484aed2c30164d306efb50af5a708",
+      "Text-content-sha1": "1ea3dad8a18f355f6538526a777f84f7185c49aa"
+    },
+    {
+      "Content-length": "3581",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/threads.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "3571",
+      "Text-content-md5": "e75c32a7c2b84c1041be4c593e42a70c",
+      "Text-content-sha1": "2e04847756e608468f43a61e71e721d4e4d5de45"
+    }
+  ],
+  "path": "/",
+  "revision": 64,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-04-26T00:55:10.103761Z",
+    "svn:log": "Фикс к предыдущему коммиту."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4648",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "4648",
+      "Text-content-md5": "29a138648a6c5b12050cb5c8ba530905",
+      "Text-content-sha1": "8ac31356cf723bb4006832208e5b6aa9674d0a4f"
+    },
+    {
+      "Content-length": "25294",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "25294",
+      "Text-content-md5": "273dedea511168a61851d8414fe6df8d",
+      "Text-content-sha1": "327efd37a6a21bd4760090c0b4beb732ee180eb0"
+    },
+    {
+      "Content-length": "438",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/private/private.xml",
+      "Text-content-length": "438",
+      "Text-content-md5": "ed5765ffcf2a243349ec01722366f2e1",
+      "Text-content-sha1": "9ae0eb30fb14eceb3c98054b92b02335a46075f6"
+    },
+    {
+      "Content-length": "18536",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "18536",
+      "Text-content-md5": "30a4929109e22d24eafb4829f4fdfc8f",
+      "Text-content-sha1": "e33e54a7f4e2fe7a15432b622b826d500133cba1"
+    },
+    {
+      "Content-length": "10718",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "10718",
+      "Text-content-md5": "6f35875740b6a69aa3fb49aab41ff216",
+      "Text-content-sha1": "5d2e8c65fa7fa74ca1b8c54a0d4b50b33bddf677"
+    }
+  ],
+  "path": "/",
+  "revision": 10,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-12T05:42:22.844413Z",
+    "svn:log": "Начато исправление скрипта просмотра тредов. Небольшие исправления в скрипте создания треда и предпросмотра доски."
+  }
+}

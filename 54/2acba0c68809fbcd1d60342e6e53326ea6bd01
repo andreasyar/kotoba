@@ -1,0 +1,70 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "3766",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/add_board.php",
+      "Text-content-length": "3766",
+      "Text-content-md5": "51ba51392fbde01d773f3b7a232342f8",
+      "Text-content-sha1": "1acfcb8c864d2c2dcf6a67f5b6836be134f262fb"
+    },
+    {
+      "Content-length": "9135",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "9135",
+      "Text-content-md5": "6bd82bfd3dde92b240d65167b6fd133d",
+      "Text-content-sha1": "ad2faa5538a217ce6e89a90a0aff3609d113c62a"
+    },
+    {
+      "Content-length": "3518",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/rem_board.php",
+      "Text-content-length": "3518",
+      "Text-content-md5": "c9f8aa0396fc9802154d69419521f9c1",
+      "Text-content-sha1": "d396bf58b6b91670f6601d9fbb4f3a02ffc2bda0"
+    },
+    {
+      "Content-length": "9504",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/removepost.php",
+      "Text-content-length": "9504",
+      "Text-content-md5": "d7aa7d399a49e19e40beb8c8f7b4d790",
+      "Text-content-sha1": "7b656904771ee0e07475b838ecb89f154a178891"
+    }
+  ],
+  "path": "trunk",
+  "revision": 15,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-13T15:55:17.864771Z",
+    "svn:log": "Исправлен скрипт удаления доски. Начата работа над исправлением скрипта удаления постов. Добавлены новые константы в систему сбора статистики."
+  }
+}

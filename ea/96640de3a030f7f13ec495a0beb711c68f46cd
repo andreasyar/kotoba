@@ -1,0 +1,77 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "6048",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "6048",
+      "Text-content-md5": "3ad3a3549868376ee3a64d9084bc3646",
+      "Text-content-sha1": "1487216069ee500dd69cf14af3330454c425955c"
+    },
+    {
+      "Content-length": "21709",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "21709",
+      "Text-content-md5": "f77e7cffe25cb6c13dc5e243ac937e69",
+      "Text-content-sha1": "1ff48cf72ee1ee9da6db345cd9d98fb05d5ceed1"
+    },
+    {
+      "Content-length": "29075",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "29075",
+      "Text-content-md5": "fdeb26c36de58f9a71878a5212e84b83",
+      "Text-content-sha1": "0ca8bf31e2db3fe1bb9e7fdcc3dcf0556427f8c3"
+    },
+    {
+      "Content-length": "12852",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php",
+      "Text-content-length": "12852",
+      "Text-content-md5": "672959f6fe6cb8c6abee512290fb5f88",
+      "Text-content-sha1": "c98288bfb2fe922cfba2fd0dfa1d76a8172f17ac"
+    }
+  ],
+  "path": "trunk",
+  "revision": 52,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-18T10:07:05.388284Z",
+    "svn:log": "thumb_processing and dependent files are rewritten with new code conventions"
+  }
+}

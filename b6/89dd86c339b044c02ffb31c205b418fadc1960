@@ -1,0 +1,44 @@
+{
+  "directories": [
+    "branches/kotoba",
+    "branches/kotoba/smarty",
+    "branches/kotoba/smarty/kotoba",
+    "branches/kotoba/smarty/kotoba/cache"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba/smarty",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba/smarty/kotoba",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba/smarty/kotoba/cache",
+      "Prop-content-length": "10"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 106,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T08:38:21.308871Z",
+    "svn:log": ""
+  }
+}

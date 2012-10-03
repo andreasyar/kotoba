@@ -1,0 +1,97 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "1406",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/dbfixforrev44.php",
+      "Text-content-length": "1406",
+      "Text-content-md5": "8704afa47293798654087953f294eece",
+      "Text-content-sha1": "58001e337c86078fb0b3c30b4b4ef2e809277457"
+    },
+    {
+      "Content-length": "9121",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/post_processing.php",
+      "Text-content-length": "9121",
+      "Text-content-md5": "c7b0072ae67524f9c192561b335faee5",
+      "Text-content-sha1": "e7e4d24600177378b9d76d516c5a5302cbc33cc2"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/post_original.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "0",
+      "Text-content-md5": "d41d8cd98f00b204e9800998ecf8427e",
+      "Text-content-sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "Content-length": "3263",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/post_simple.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "3253",
+      "Text-content-md5": "65c23806f2d8887c3fa47f9a538e3d68",
+      "Text-content-sha1": "3bda33fb4e62f78d2f7e7e8f8c52021192eea254"
+    },
+    {
+      "Content-length": "12639",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "12639",
+      "Text-content-md5": "bfb81b8559e07ccc763d1728fc030b37",
+      "Text-content-sha1": "e46f17994ba006734407a1218de29d870f189117"
+    },
+    {
+      "Content-length": "12855",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php",
+      "Text-content-length": "12855",
+      "Text-content-md5": "816c3be56383f601e417de55144da8d0",
+      "Text-content-sha1": "21e044a6724f9dab5fbf478e900f46a6c407ff80"
+    }
+  ],
+  "path": "trunk",
+  "revision": 54,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-04-21T03:56:09.008903Z",
+    "svn:log": "Шаблонизирован вывод простых сообщений. Исправлены опечатки. Другие небольшие изменения."
+  }
+}

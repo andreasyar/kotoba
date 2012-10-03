@@ -1,0 +1,142 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin",
+    "trunk/kotoba-ib/log",
+    "trunk/kotoba-ib/modules",
+    "trunk/kotoba-ib/modules/lang",
+    "trunk/kotoba-ib/modules/lang/English",
+    "trunk/kotoba-ib/modules/lang/Russian",
+    "trunk/kotoba-ib/smarty/kotoba/templates/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates/Russian",
+    "trunk/kotoba-ib/stat",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "trunk/kotoba-ib/securimage",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/css"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "9758",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/create_thread.php",
+      "Text-content-length": "9758",
+      "Text-content-md5": "2dbcfda8317b25a4aee427f0b96bcea0",
+      "Text-content-sha1": "975d68e2f0c6e61efd09756a5642b8832dbc7e27"
+    },
+    {
+      "Content-length": "101982",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/cache.php",
+      "Text-content-length": "101982",
+      "Text-content-md5": "016ffb56e3cfc9de21633f9a2ee95583",
+      "Text-content-sha1": "2aee67547a52f4f37ce47f6b6d217a860e978468"
+    },
+    {
+      "Content-length": "18811",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/common.php",
+      "Text-content-length": "18811",
+      "Text-content-md5": "60372cedf30ac139569c0fdbfb123385",
+      "Text-content-sha1": "3b4e1c28eb9eb0e7fbbe744cd0e849347fcbdfc2"
+    },
+    {
+      "Content-length": "17845",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/lang/Russian/errors.php",
+      "Text-content-length": "17845",
+      "Text-content-md5": "4a67f075f90c53a60c9f6cddcc07aa96",
+      "Text-content-sha1": "aad2a9d6771dc6bbe05d851d7e5c78094041e561"
+    },
+    {
+      "Content-length": "19344",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/mark.php",
+      "Text-content-length": "19344",
+      "Text-content-md5": "2dd9ee088af62b5c118b45b55027f595",
+      "Text-content-sha1": "0b9ab4cc53a5cff6679e644c2a298d161dc065c4"
+    },
+    {
+      "Content-length": "618",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/private/private.xml",
+      "Text-content-length": "618",
+      "Text-content-md5": "bf53cf319a004598cd5a10fd6b578778",
+      "Text-content-sha1": "a68c09186e91af9075fdf7f4753fbd036faf7ddd"
+    },
+    {
+      "Content-length": "10297",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "10297",
+      "Text-content-md5": "17b18ec8c5b57986eff2e1b46b1ee871",
+      "Text-content-sha1": "692ad312789295f52636f0d63aca0cc5e83f3e1b"
+    }
+  ],
+  "path": "trunk",
+  "revision": 199,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2010-01-04T08:20:03.510991Z",
+    "svn:log": "Добавлена проверка корректности юникода и удаление управляющих символов аски. Другие небольшие изменения."
+  }
+}

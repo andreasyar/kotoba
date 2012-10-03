@@ -1,0 +1,169 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin",
+    "trunk/kotoba-ib/log",
+    "trunk/kotoba-ib/modules",
+    "trunk/kotoba-ib/modules/lang",
+    "trunk/kotoba-ib/modules/lang/English",
+    "trunk/kotoba-ib/modules/lang/Russian",
+    "trunk/kotoba-ib/smarty/kotoba/templates/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates/Russian",
+    "trunk/kotoba-ib/stat",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "trunk/kotoba-ib/securimage",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/css"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "1979",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/hide_thread.php",
+      "Text-content-length": "1979",
+      "Text-content-md5": "75777dca3b7f37f1a638f5ec60824477",
+      "Text-content-sha1": "0c06b8cb0ec2ace11c50664e748788d9a207d0ea"
+    },
+    {
+      "Content-length": "100644",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/cache.php",
+      "Text-content-length": "100644",
+      "Text-content-md5": "985f894adbf4a732b6771b7cc5a0b11c",
+      "Text-content-sha1": "edbdac2e424cfe8c3aa79450eaf1d39f91995fc2"
+    },
+    {
+      "Content-length": "16945",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/common.php",
+      "Text-content-length": "16945",
+      "Text-content-md5": "08826ce09aeaaaed9ac09a83a1476644",
+      "Text-content-sha1": "8cb6a56a6e4ee8d9c6e7c12aac6d5d006c7651c3"
+    },
+    {
+      "Content-length": "107724",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/db.php",
+      "Text-content-length": "107724",
+      "Text-content-md5": "1af1bb3746f9746689c971f7702d5139",
+      "Text-content-sha1": "8404c3691977fca2166568412a1d8c09f2ee5b40"
+    },
+    {
+      "Content-length": "481",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/private/private.xml",
+      "Text-content-length": "481",
+      "Text-content-md5": "ea263568cc7a1687b3a0ef5b37d2abed",
+      "Text-content-sha1": "ca58f18920cfa1264cc57ab88c9125da51669956"
+    },
+    {
+      "Content-length": "246361",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/kotoba struct.sql",
+      "Text-content-length": "246361",
+      "Text-content-md5": "4552f1544974686bcba0cf90259443d5",
+      "Text-content-sha1": "e5e359f7e3839573722e07a8da2c3d598ac06b76"
+    },
+    {
+      "Content-length": "1616",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/Russian/board_footer.tpl",
+      "Text-content-length": "1616",
+      "Text-content-md5": "0e498e60b202270a513850e9c0bfdce9",
+      "Text-content-sha1": "cedd5ee6bbee7a0a083a5f1a6ec8501a5e220744"
+    },
+    {
+      "Content-length": "3755",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/Russian/board_thread_header.tpl",
+      "Text-content-length": "3755",
+      "Text-content-md5": "b027a40e37d828babf1049ca8a9ebdbe",
+      "Text-content-sha1": "eeaf3dba7159dd4bb20ce3b899a09fb0b7ff2539"
+    },
+    {
+      "Content-length": "3308",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/Russian/post_original.tpl",
+      "Text-content-length": "3308",
+      "Text-content-md5": "643550996669d738592f3adc1853220f",
+      "Text-content-sha1": "d1b8ad7e2d1af0e521cb52ff7b859dc4a81fd99e"
+    },
+    {
+      "Content-length": "2006",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/unhide_thread.php",
+      "Text-content-length": "2006",
+      "Text-content-md5": "36822a23825faf72487edea5c3f95615",
+      "Text-content-sha1": "75ba41834203656c16cadd6137d3a77980189893"
+    }
+  ],
+  "path": "trunk",
+  "revision": 195,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2010-01-02T20:22:28.180010Z",
+    "svn:log": "Исправлено скрытие и отмена скрытия нити."
+  }
+}

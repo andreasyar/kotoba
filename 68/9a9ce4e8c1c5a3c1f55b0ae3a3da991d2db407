@@ -1,0 +1,73 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "831",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/login.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "821",
+      "Text-content-md5": "2514c843af5e8eed1b31ad065078d8b3",
+      "Text-content-sha1": "835d8c99c3773948292f18c96acd772cc5e01270"
+    },
+    {
+      "Content-length": "393",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/logout.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "383",
+      "Text-content-md5": "2b05c71855182e4f790c7631814ec8e4",
+      "Text-content-sha1": "48aac0ce2f7998a7598989a9d9b28b2b819f68ec"
+    },
+    {
+      "Content-length": "586",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/register.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "576",
+      "Text-content-md5": "b235f03982b7f6dfd6ef2c1f8a6edab9",
+      "Text-content-sha1": "2fe1703d93996adf0e92c0d16997e5d404b81398"
+    }
+  ],
+  "path": "/",
+  "revision": 66,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-29T12:05:57.992951Z",
+    "svn:log": "new templates for login, logout and register"
+  }
+}

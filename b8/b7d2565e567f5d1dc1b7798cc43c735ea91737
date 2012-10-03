@@ -1,0 +1,63 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "7492",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "7492",
+      "Text-content-md5": "8d8dd9c8aad4138bba9e1c5b3c46f600",
+      "Text-content-sha1": "dbde62d3b8a7f3bbaa6e10f8faa1b72e940313e6"
+    },
+    {
+      "Content-length": "436",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/private/private.xml",
+      "Text-content-length": "436",
+      "Text-content-md5": "da396bdc45e3606eb2b0ae5b5ac67481",
+      "Text-content-sha1": "42a25fea5326e99a533bf8a5ff277397bfe504b7"
+    },
+    {
+      "Content-length": "18403",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "18403",
+      "Text-content-md5": "283842826cf41d01017c41f2330fa58c",
+      "Text-content-sha1": "e8cc2c335cb2add4e248bccea947535033d7c69f"
+    }
+  ],
+  "path": "/",
+  "revision": 6,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-08T13:26:24.869272Z",
+    "svn:log": "Исправлен сбор статистики, добавлены новые сообщения для сбора статистики, сортировка тредов для показа в предпросмотре доски убрана из скрипта в запрос к БД. Так же внесены другие мелкие исправления и добавлены комментарии."
+  }
+}

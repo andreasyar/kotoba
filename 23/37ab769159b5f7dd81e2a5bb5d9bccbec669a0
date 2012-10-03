@@ -1,0 +1,70 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4648",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "4648",
+      "Text-content-md5": "864dac1b567cb5217d67477f6b4164c6",
+      "Text-content-sha1": "7e47d389ae2f566d620857ce4d087712f5b2a055"
+    },
+    {
+      "Content-length": "29137",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "29137",
+      "Text-content-md5": "9ff41babc7be2355e088229acf1d6cf2",
+      "Text-content-sha1": "5876a2a60eb51a822b5f1f657f81a194027c84d9"
+    },
+    {
+      "Content-length": "3689",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/kotoba.css",
+      "Text-content-length": "3689",
+      "Text-content-md5": "3090e04dae7ee9c4d26caaca2abe67fa",
+      "Text-content-sha1": "c27c21220e8b075d1a3fb8a90e0c82f127a2282d"
+    },
+    {
+      "Content-length": "27699",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "27699",
+      "Text-content-md5": "ad0adec467ee30c2a3d4287af42b913b",
+      "Text-content-sha1": "379dda066dc2ea3c39641f3e067b3fd9d2855f32"
+    }
+  ],
+  "path": "trunk",
+  "revision": 21,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-18T18:50:27.610047Z",
+    "svn:log": "Доделана поддержка Вакаба Марк."
+  }
+}

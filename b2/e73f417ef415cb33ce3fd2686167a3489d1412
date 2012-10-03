@@ -1,0 +1,155 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/res/concept",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/res/concept/database",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/interface",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "582",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/interface/boards.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "572",
+      "Text-content-md5": "24d00a32bc7f0967e02986d78ee094cc",
+      "Text-content-sha1": "f25871b69812c0b8c3befbdcfa9a9ccf6c7c0b5c"
+    },
+    {
+      "Content-length": "278",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/interface/dbconn.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "268",
+      "Text-content-md5": "44c961f811f5a8a09e2c0b80c584025d",
+      "Text-content-sha1": "e9a1525b17a909da7638bfc4d0ca9f8847221f71"
+    },
+    {
+      "Content-length": "1234",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/interface/edboard.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1224",
+      "Text-content-md5": "69c3180ad662b12597825b7f8f2edf07",
+      "Text-content-sha1": "70412d3d0937c0d4ebc186143a295a99a8ce2c86"
+    },
+    {
+      "Content-length": "94",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/interface/index.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "84",
+      "Text-content-md5": "7dd6269f6bf545cfd9da12cacda1bef4",
+      "Text-content-sha1": "08323d461cf78f15c3ab3502da784a48c42c839d"
+    },
+    {
+      "Content-length": "1305",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/interface/post.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1295",
+      "Text-content-md5": "904c087febacfc4a5242f861d9a69b65",
+      "Text-content-sha1": "64b366ff77352f5c83cedbf850b602923f73d744"
+    },
+    {
+      "Content-length": "3438",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/interface/showboard.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "3428",
+      "Text-content-md5": "e6de98cc155e14ea33fe36253d06a85d",
+      "Text-content-sha1": "83ae2a9cc235a15dd02c9fad9a895670f4be49a6"
+    },
+    {
+      "Content-length": "1575",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/interface/thread.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1565",
+      "Text-content-md5": "b82b1b6e05e92a53b5da6a9d8f29ad65",
+      "Text-content-sha1": "99ca02a5902cb66f40372f9797e95cecfb64813a"
+    },
+    {
+      "Content-length": "1902",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/kotoba-tables.sql",
+      "Prop-content-length": "10",
+      "Text-content-length": "1892",
+      "Text-content-md5": "504845e2eb806941dcef012dd2c5ab6f",
+      "Text-content-sha1": "c02b9da25f7cec633016081c69ef21959bcafc61"
+    },
+    {
+      "Content-length": "15644",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/kotoba.sql",
+      "Prop-content-length": "10",
+      "Text-content-length": "15634",
+      "Text-content-md5": "99c06fc8f27598a67cd0ff2b38a3d841",
+      "Text-content-sha1": "c024aad405c00ac2644410b560fe4c1f51928176"
+    }
+  ],
+  "path": "trunk",
+  "revision": 67,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-05-08T12:42:38.936713Z",
+    "svn:log": "suggestion of new database concept with sample interface"
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/Thumbs.db": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/Thumbs.db": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "2476",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/add_board.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "2466",
+      "Text-content-md5": "4790048b86b2f59b9b94635b20b11bf9",
+      "Text-content-sha1": "2c2b98b279f132a9e30854c1aefbc07b13e1b31c"
+    },
+    {
+      "Content-length": "17315",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/board.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "17305",
+      "Text-content-md5": "cfac937e68215a9743f0dcf374bea8f4",
+      "Text-content-sha1": "4dd2661901adc951bd73967975b2a05274b2068e"
+    },
+    {
+      "Content-length": "4626",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "4616",
+      "Text-content-md5": "3089967a5efe61a2a534b7878448e0aa",
+      "Text-content-sha1": "b7ecdd0ae1605e2e689ce20a5a8bccc29f53906a"
+    },
+    {
+      "Content-length": "26112",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "26102",
+      "Text-content-md5": "11f57d7aebca2e839f94c48c36e6df8c",
+      "Text-content-sha1": "f9fd3856c1b6b9be42cc1b62d04523b5426484b5"
+    },
+    {
+      "Content-length": "1162",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/database_connect.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1152",
+      "Text-content-md5": "dd715ddfb85b2edc4be000d285a0d8f3",
+      "Text-content-sha1": "b6682829da2b7cf21382f3ee6b8bbe16db1e06fa"
+    },
+    {
+      "Content-length": "5578",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "5568",
+      "Text-content-md5": "bc0d2136b68751f85d4fa5eafadc9467",
+      "Text-content-sha1": "9c3fd05defcc6a7b1adff6cf22defaf706890a7b"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/img",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "5179",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/img/Thumbs.db",
+      "Prop-content-length": "59",
+      "Text-content-length": "5120",
+      "Text-content-md5": "a4414f74f6f212de13463060de9c7ee7",
+      "Text-content-sha1": "eae2d2bf32df0c19f09f3312ea75b9e4f17e295d"
+    },
+    {
+      "Content-length": "15930",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/img/ahs.png",
+      "Prop-content-length": "59",
+      "Text-content-length": "15871",
+      "Text-content-md5": "b94e930aa918ce9633907a6a9eb1c2ce",
+      "Text-content-sha1": "3dc55d747ab2fd745e3cd5bc9c9a2815926bfb38"
+    },
+    {
+      "Content-length": "1513",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/index.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1503",
+      "Text-content-md5": "a76459fdbcfd7a003f8cf29ccdc4a041",
+      "Text-content-sha1": "71325e68e8ea07208a5bffba59f4d2dbff6b56bd"
+    },
+    {
+      "Content-length": "3376",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/kotoba.css",
+      "Prop-content-length": "10",
+      "Text-content-length": "3366",
+      "Text-content-md5": "444b4679ef4a2726f4c0527291d213ef",
+      "Text-content-sha1": "948297511e1735f3a33c2d928a7821330e9caae0"
+    },
+    {
+      "Content-length": "599",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/kusaba.js",
+      "Prop-content-length": "10",
+      "Text-content-length": "589",
+      "Text-content-md5": "0a26d432f96df2523f3bc717dcd6df9d",
+      "Text-content-sha1": "f7bbcbc6fe24c86aff627e10056d247cc919d5f2"
+    },
+    {
+      "Content-length": "4918",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/license.txt",
+      "Prop-content-length": "10",
+      "Text-content-length": "4908",
+      "Text-content-md5": "67df76bcfe20d939191a06743133cb25",
+      "Text-content-sha1": "e3e71652d4bb2fb6f722dd3f3c2ff676aca80382"
+    },
+    {
+      "Content-length": "2590",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/login.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "2580",
+      "Text-content-md5": "e7949f45c799f83bb01b42c347c94b54",
+      "Text-content-sha1": "e2752e32d36b3c0f47ac7846c130b1dbbb950edb"
+    },
+    {
+      "Content-length": "838",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/logout.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "828",
+      "Text-content-md5": "86de510fa8f360497c7e294e3bc25a7e",
+      "Text-content-sha1": "9f9ca5e3650ff8aa41e7e26f586db8e7f7c4c366"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/nbproject",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/nbproject/private",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "446",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/private/private.xml",
+      "Prop-content-length": "10",
+      "Text-content-length": "436",
+      "Text-content-md5": "d71021e9a2dc7aa251b0d153a0325e5a",
+      "Text-content-sha1": "85cfbc4a8434b3befc389ff5b3ad2121bf6edfe5"
+    },
+    {
+      "Content-length": "186",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/project.properties",
+      "Prop-content-length": "10",
+      "Text-content-length": "176",
+      "Text-content-md5": "c2fe91d548100e7e899901455c38c629",
+      "Text-content-sha1": "2554dea0981e6d63a8a6dbfd82a7f3d520b70a88"
+    },
+    {
+      "Content-length": "327",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/project.xml",
+      "Prop-content-length": "10",
+      "Text-content-length": "317",
+      "Text-content-md5": "484f94a40b6f14f6a61d58ba09b2f776",
+      "Text-content-sha1": "8ed698a23b7900339e4291ee0550c5b541726bc4"
+    },
+    {
+      "Content-length": "15783",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "15773",
+      "Text-content-md5": "73fd517a050515a35a93440885a8041d",
+      "Text-content-sha1": "0aa1de51cc7d81be6b86e2ef77c78c3ff9bc37f3"
+    },
+    {
+      "Content-length": "1864",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/register.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1854",
+      "Text-content-md5": "24ec594622fbcc904608dc2df633e1fd",
+      "Text-content-sha1": "2a25c51842fcff8ddd81d44c22a61e9df465638a"
+    },
+    {
+      "Content-length": "2551",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/rem_board.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "2541",
+      "Text-content-md5": "979aa2f727db4ddd1a768dfcb4a7cffe",
+      "Text-content-sha1": "b6f43d35ac64abb9cc830d8e7e43d8e523985721"
+    },
+    {
+      "Content-length": "8609",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/removepost.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "8599",
+      "Text-content-md5": "151ed22e9a4988279e71361cc9241a63",
+      "Text-content-sha1": "7b41782bba87cd93c1e09b9d963190fbaf5e843d"
+    },
+    {
+      "Content-length": "23578",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "23568",
+      "Text-content-md5": "0381ea56f19f9379379daee0e78a0c50",
+      "Text-content-sha1": "cdd0fa50816b9cff80b6bd0df899d6137750c595"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/res",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "1070",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Kotoba DB.txt",
+      "Prop-content-length": "10",
+      "Text-content-length": "1060",
+      "Text-content-md5": "cc244eb26c7056c03c329d94d31468d5",
+      "Text-content-sha1": "d0ceeb22348d2c51a9bb0ece66382fc78cd6047b"
+    },
+    {
+      "Content-length": "490",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Kotoba tree.txt",
+      "Prop-content-length": "10",
+      "Text-content-length": "480",
+      "Text-content-md5": "22aeb3c8f2c4b8fa1d99d2e1ae06ab7a",
+      "Text-content-sha1": "be099a44255569ea8130fc605671c4ec42e53d01"
+    },
+    {
+      "Content-length": "8251",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Thumbs.db",
+      "Prop-content-length": "59",
+      "Text-content-length": "8192",
+      "Text-content-md5": "82633ae38cd2e702b56412f5273c0b7c",
+      "Text-content-sha1": "02efce526b72c2a530e6d6dd601718de67ba709e"
+    },
+    {
+      "Content-length": "33168",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/kotoba.jpg",
+      "Prop-content-length": "59",
+      "Text-content-length": "33109",
+      "Text-content-md5": "97cc7e4e425b4e8120c20b36ebf79928",
+      "Text-content-sha1": "80aa7d4f48aa2816571f0502916619243f7c9984"
+    },
+    {
+      "Content-length": "1412",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/login_bs.dot",
+      "Prop-content-length": "10",
+      "Text-content-length": "1402",
+      "Text-content-md5": "01c0315432ada2fa84aebe1aca211746",
+      "Text-content-sha1": "02a7df32f5ef1a2bdf620a4bd09b320493bf2f6a"
+    },
+    {
+      "Content-length": "87408",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/login_bs.png",
+      "Prop-content-length": "59",
+      "Text-content-length": "87349",
+      "Text-content-md5": "d152cece87c4bf585a4d23bdd6994c94",
+      "Text-content-sha1": "b874cb41f184788514c952f5b2032770f9df7c23"
+    },
+    {
+      "Content-length": "1118",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/register_bs.dot",
+      "Prop-content-length": "10",
+      "Text-content-length": "1108",
+      "Text-content-md5": "ac912d91c86cc186da8892c3b8f01c7c",
+      "Text-content-sha1": "97bdb54bf54034b3df5a9ec276a8d0577e8c2455"
+    },
+    {
+      "Content-length": "60005",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/register_bs.png",
+      "Prop-content-length": "59",
+      "Text-content-length": "59946",
+      "Text-content-md5": "214ef2a01164080982e78182c3545b29",
+      "Text-content-sha1": "4fefce2fb79f6b7e546ce440ee7dd2b603d20e06"
+    },
+    {
+      "Content-length": "10117",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "10107",
+      "Text-content-md5": "311c2816fb57751e3f2509a54ec26299",
+      "Text-content-sha1": "3021a19af0714ad094656fd0c5e46cc2a3f00bd1"
+    },
+    {
+      "Content-length": "3205",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "3195",
+      "Text-content-md5": "1c5222b406585edd1092823c0e0d5179",
+      "Text-content-sha1": "355e046b8d0f597642fea5d1818932735396d339"
+    }
+  ],
+  "path": "trunk",
+  "revision": 2,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-06T00:16:47.686104Z",
+    "svn:log": "Добавление кота."
+  }
+}

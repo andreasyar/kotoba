@@ -1,0 +1,108 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4171",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "4171",
+      "Text-content-md5": "a48410f63bc7eddc919770117b04e36d",
+      "Text-content-sha1": "655420ee1a07b0843114c68f9490174013ada52c"
+    },
+    {
+      "Content-length": "26234",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "26234",
+      "Text-content-md5": "be03fc8e68a0f6e0286528a76efe3f04",
+      "Text-content-sha1": "c2f9d636442fafe5842506e383fc12c4d526bbb1"
+    },
+    {
+      "Content-length": "3711",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/kotoba.css",
+      "Text-content-length": "3711",
+      "Text-content-md5": "7700e4d04076335e6fa20a5a26be07f1",
+      "Text-content-sha1": "4a2fc0ea5b97e417e1639519899226b60a2874e7"
+    },
+    {
+      "Content-length": "20605",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/mark.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "20595",
+      "Text-content-md5": "697e32e3030f6bf998dcfb750dcd6cfc",
+      "Text-content-sha1": "78c532b852b08df0ce657db796f1f7b963b43856"
+    },
+    {
+      "Content-length": "25857",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "25857",
+      "Text-content-md5": "ca7aa5beed05a236d1a6b0e92198a50e",
+      "Text-content-sha1": "c7161c66d56266d60cec4bfc98bf8be9cb978d23"
+    },
+    {
+      "Content-length": "0",
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib/res/wakaba mark 1.txt",
+      "Node-copyfrom-rev": "27",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Kotoba mark 1.txt",
+      "Text-content-length": "0",
+      "Text-content-md5": "d41d8cd98f00b204e9800998ecf8427e",
+      "Text-content-sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "Text-copy-source-md5": "ca2f03ddcf05cecfdc4de3b74832a401",
+      "Text-copy-source-sha1": "6d4abbc1e6b24daff7574a0ff846cdb705d6be7d"
+    },
+    {
+      "Content-length": "3844",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/kotoba struct.sql",
+      "Text-content-length": "3844",
+      "Text-content-md5": "0ae460bf79c1ed7c24ac0d209cb73e31",
+      "Text-content-sha1": "0babc16d9f080f9dd024147e10df5e7bcb16bde2"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/res/wakaba mark 1.txt"
+    }
+  ],
+  "path": "/",
+  "revision": 28,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-03-12T18:25:46.381976Z",
+    "svn:log": "Добавлена первая версия Kotoba Mark."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4224",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/addboard.php",
+      "Text-content-length": "4224",
+      "Text-content-md5": "4ccacbba84de8f589be1dc9232eaf23e",
+      "Text-content-sha1": "315fff0cf9c23197392f7788cc66b12b79ba8b44"
+    },
+    {
+      "Content-length": "3140",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "3140",
+      "Text-content-md5": "5826ea735f72c9e2ef3723bb54b3e7b4",
+      "Text-content-sha1": "0047144dc879aa94527997c275af2c985fc4dbd2"
+    },
+    {
+      "Content-length": "3527",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/config.default",
+      "Prop-content-length": "10",
+      "Text-content-length": "3517",
+      "Text-content-md5": "4829d36b3fc35757a46f085d48450def",
+      "Text-content-sha1": "7fab0695d5cc4c086133b81638b1dc3e0109d2a3"
+    },
+    {
+      "Content-length": "17870",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "17870",
+      "Text-content-md5": "5ecc60e4ece50e7b00b5baaab44a2a24",
+      "Text-content-sha1": "50706e9ad332c0d5993ebc7c677ba75aed9a7a71"
+    },
+    {
+      "Content-length": "1429",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/dbfixforrev44.php",
+      "Text-content-length": "1429",
+      "Text-content-md5": "a602a28491aa36c5339c6412052846d8",
+      "Text-content-sha1": "b52fc90a20f4aaf4ca45a826bce79df8b1987b7d"
+    },
+    {
+      "Content-length": "601",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/error_processing.php",
+      "Text-content-length": "601",
+      "Text-content-md5": "1459ebfa8823e7bd94f6a90517eb2971",
+      "Text-content-sha1": "48e4d15b866448ae594b6f2e4a1ac56ab0dfff40"
+    },
+    {
+      "Content-length": "2224",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/index.php",
+      "Text-content-length": "2224",
+      "Text-content-md5": "1e3c3a9cd19e0e420df4b5a13559c291",
+      "Text-content-sha1": "66986b7d8202fb4ea72ac539ff373316e7a8dbd0"
+    },
+    {
+      "Content-length": "3954",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/login.php",
+      "Text-content-length": "3954",
+      "Text-content-md5": "e0ead73c931b19d390b2f0e4f4b33553",
+      "Text-content-sha1": "14e3683c0d6bd954b80b19a3f9f0dfd3113d2139"
+    },
+    {
+      "Content-length": "1350",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/logout.php",
+      "Text-content-length": "1350",
+      "Text-content-md5": "07220e19e4eb4184c5fdb20b7f7c4901",
+      "Text-content-sha1": "3bb4303c20f11962e2415450ec326daf3fe750d1"
+    },
+    {
+      "Content-length": "23362",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/mark.php",
+      "Text-content-length": "23362",
+      "Text-content-md5": "2f910983faf301d6f3cfa1dafd808979",
+      "Text-content-sha1": "d3bc86e64674eeba2c9f0c911b3b7c0364ca9be0"
+    },
+    {
+      "Content-length": "19462",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "19462",
+      "Text-content-md5": "cd264e41451c4e490e8e0f3d91dae6db",
+      "Text-content-sha1": "85f2e515bcafa8f74e7915c784bd3424d5c98a39"
+    },
+    {
+      "Content-length": "3540",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/remboard.php",
+      "Text-content-length": "3540",
+      "Text-content-md5": "67a7bb5afdf110b2d7d4d42151b2f833",
+      "Text-content-sha1": "b3b47ab35105b1ccc6c68d573759a6ff4570729a"
+    },
+    {
+      "Content-length": "7923",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/removepost.php",
+      "Text-content-length": "7923",
+      "Text-content-md5": "a8753226f64f1c13f3eec9fcab27d7ee",
+      "Text-content-sha1": "7b691252d30e0d39c1403b79049af439413468f8"
+    },
+    {
+      "Content-length": "18239",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "18239",
+      "Text-content-md5": "c8ea761944f76711e32af9e842600c7b",
+      "Text-content-sha1": "3010aa41e91d0157a1b8281a67eeb610235d612e"
+    },
+    {
+      "Content-length": "12663",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "12663",
+      "Text-content-md5": "c2271f1e7a9616114268751f880efb34",
+      "Text-content-sha1": "44ad5d1433d7c585a8988da8b896361a8aa1510c"
+    },
+    {
+      "Content-length": "12884",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php",
+      "Text-content-length": "12884",
+      "Text-content-md5": "3228e75dd82e68885f99ea8958d26bea",
+      "Text-content-sha1": "e730a65f275d6e8bd199ccc50bfcd97fc6401ac2"
+    }
+  ],
+  "path": "trunk",
+  "revision": 59,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-04-23T18:38:27.581125Z",
+    "svn:log": "Разделены настройки имейджборды и стандартные функции."
+  }
+}

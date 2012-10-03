@@ -1,0 +1,97 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4617",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "4617",
+      "Text-content-md5": "b2ec91e89dfdce94b840f5f01851a15e",
+      "Text-content-sha1": "cb5860a7c482e21dceae1bf3d5b18713a6375658"
+    },
+    {
+      "Content-length": "26101",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "26101",
+      "Text-content-md5": "e6be170de824d3d4142115f70925fcd9",
+      "Text-content-sha1": "b460f72cceab09d0e275a051af62664506272c8c"
+    },
+    {
+      "Content-length": "8286",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "8286",
+      "Text-content-md5": "e06a300437a04a6251928e06e983ee18",
+      "Text-content-sha1": "833e2eb4130cf8f6609bbdf4e522e63cd20f49b1"
+    },
+    {
+      "Content-length": "211",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/nbproject/private/private.xml",
+      "Text-content-length": "211",
+      "Text-content-md5": "8db5aa1af9a60c837ae0c674b2111063",
+      "Text-content-sha1": "4e616ef2ce25bfec3815cc2afc7676dd57902843"
+    },
+    {
+      "Content-length": "18403",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "18403",
+      "Text-content-md5": "79f3bd3c30430de9a79a07593db2f5f1",
+      "Text-content-sha1": "413617a3079e8da6ab55917eb40377b7b4bc2aad"
+    },
+    {
+      "Content-length": "22986",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "22986",
+      "Text-content-md5": "291aba89c0abc3479b676a0062e27104",
+      "Text-content-sha1": "b78657bb327c3033a35a64ac685e4cd55f1bc8e1"
+    },
+    {
+      "Content-length": "10118",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "10118",
+      "Text-content-md5": "dec0a55d55654c3ad1f8fddac500b89c",
+      "Text-content-sha1": "aec00ea1874ae8508a6d08e6e2bc1caaa5b374ea"
+    }
+  ],
+  "path": "trunk",
+  "revision": 7,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-09T04:47:37.605342Z",
+    "svn:log": "Начата работа над исправлением reply.php в соответствии с новой системой сбора статистики. Переименованы некоторые константы. Другие мелкие испарвления."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "directories": [
+    "branches/kotoba"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "trunk/kotoba-ib-database/index.php",
+      "Node-copyfrom-rev": "103",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/index.php",
+      "Text-copy-source-md5": "ecbd898c8e4859110a01f3897f7054a4",
+      "Text-copy-source-sha1": "d5244fc03844290ad6e4fa313656b63c8dab46ef"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 104,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T08:21:52.976958Z",
+    "svn:log": "tsvn copy test"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "1270",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Kotoba DB.txt",
+      "Text-content-length": "1270",
+      "Text-content-md5": "823477bfbdcae7b802e69bcf0a7ad6da",
+      "Text-content-sha1": "01e9d0fd3a0c507cd45218db8276dbdf19aeb20b"
+    },
+    {
+      "Content-length": "12769",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "12769",
+      "Text-content-md5": "4babcb107011818b4e4b358dae7d6c8f",
+      "Text-content-sha1": "b899d617d18a32c19ea7340875ebc6ba42c35fe8"
+    }
+  ],
+  "path": "trunk",
+  "revision": 14,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-12T22:38:26.242092Z",
+    "svn:log": "Файл для создания БД приведён в актуальное состояние. Исправлен баг с отображением картинок при просмотре треда."
+  }
+}

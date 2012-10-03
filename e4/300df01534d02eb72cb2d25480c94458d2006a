@@ -1,0 +1,70 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "21705",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "21705",
+      "Text-content-md5": "8754ac38db673f309cc903a882629ac8",
+      "Text-content-sha1": "3268a4e7dd87770286e90983ca4821f94d77a6ef"
+    },
+    {
+      "Content-length": "9058",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/post_processing.php",
+      "Text-content-length": "9058",
+      "Text-content-md5": "0b8974f7acd081e844bd2c5210af67ae",
+      "Text-content-sha1": "7f4e06c27f7fb0ff19f3561642b38462ba284342"
+    },
+    {
+      "Content-length": "12752",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php",
+      "Text-content-length": "12752",
+      "Text-content-md5": "3d3968f87ca1444513228a5b09238128",
+      "Text-content-sha1": "41b0f6e590fac18b8e023b42828412fa2533c687"
+    }
+  ],
+  "path": "/",
+  "revision": 49,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-15T12:10:49.123519Z",
+    "svn:log": "Changed some image processing arguments, other modules need rewrite\nRefactoring of create thread continued.\n"
+  }
+}

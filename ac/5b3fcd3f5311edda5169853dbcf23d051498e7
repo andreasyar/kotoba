@@ -1,0 +1,248 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin",
+    "branches/kotoba-ib",
+    "branches/kotoba-ib/smarty",
+    "branches/kotoba-ib/smarty/kotoba",
+    "branches/kotoba-ib/smarty/kotoba/templates",
+    "branches/kotoba-ib/smarty/internals",
+    "branches/kotoba-ib/smarty/plugins",
+    "branches/kotoba-ib/smarty/kotoba/cache",
+    "branches/kotoba-ib/smarty/kotoba/configs",
+    "branches/kotoba-ib/smarty/kotoba/templates_c",
+    "branches/kotoba-ib/sessions",
+    "branches/kotoba-ib/res",
+    "branches/kotoba-ib/nbproject",
+    "branches/kotoba-ib/nbproject/private",
+    "branches/kotoba-ib/stat",
+    "branches/kotoba-ib/smarty/kotoba/cache/English",
+    "branches/kotoba-ib/smarty/kotoba/cache/Russian",
+    "branches/kotoba-ib/smarty/kotoba/configs/English",
+    "branches/kotoba-ib/smarty/kotoba/configs/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates/English",
+    "branches/kotoba-ib/smarty/kotoba/templates/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/English",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "branches/kotoba-ib/admin",
+    "branches/kotoba-ib/log",
+    "branches/kotoba-ib/modules",
+    "branches/kotoba-ib/modules/lang",
+    "branches/kotoba-ib/modules/lang/English",
+    "branches/kotoba-ib/modules/lang/Russian",
+    "trunk/kotoba-ib/log",
+    "trunk/kotoba-ib/modules",
+    "trunk/kotoba-ib/modules/lang",
+    "trunk/kotoba-ib/modules/lang/English",
+    "trunk/kotoba-ib/modules/lang/Russian",
+    "trunk/kotoba-ib/smarty/kotoba/templates/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates/Russian",
+    "trunk/kotoba-ib/stat",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/English",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "trunk/kotoba-ib/securimage",
+    "trunk/kotoba-ib/img"
+  ],
+  "node_properties": {
+    "branches/kotoba-ib": {
+      "svn:ignore": ".xt.xt\n"
+    },
+    "branches/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "6403",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/admin/moderate.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "6393",
+      "Text-content-md5": "25d84bdc615f87526457001ae30066dd",
+      "Text-content-sha1": "1581bf5cfc32ee557482838903a01b28e6d79bcb"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/admin/remove_post.php"
+    },
+    {
+      "Content-length": "8705",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/config.default",
+      "Text-content-length": "8705",
+      "Text-content-md5": "0a1c02621c659fdf2e7216a682d2499f",
+      "Text-content-sha1": "256a09c18dc2e262d87aa04a9d6ae5e84d354126"
+    },
+    {
+      "Content-length": "2128",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/manage.php",
+      "Text-content-length": "2128",
+      "Text-content-md5": "7a30d3cbe8b39e1adf040b7eb804a3f2",
+      "Text-content-sha1": "003fd6d28c015270e83baba79e8dcece38ab89a5"
+    },
+    {
+      "Content-length": "100856",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/cache.php",
+      "Text-content-length": "100856",
+      "Text-content-md5": "4c68bdf5d31d54a9294d375221064b42",
+      "Text-content-sha1": "63e0c2c66c9937a3adeb93f1fef7450d89e0e66a"
+    },
+    {
+      "Content-length": "16341",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/common.php",
+      "Text-content-length": "16341",
+      "Text-content-md5": "b25329d137fdddaff49828133ff56a69",
+      "Text-content-sha1": "60fef01b7323e9873f5eb83515166b56801aa95b"
+    },
+    {
+      "Content-length": "108138",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/db.php",
+      "Text-content-length": "108138",
+      "Text-content-md5": "2d4bf7a3ce7a8a0e244ff5b0cc5054a4",
+      "Text-content-sha1": "dc87b05f577ae4e1c8f405a66e8f6b07878e73d6"
+    },
+    {
+      "Content-length": "5730",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/modules/lang/Russian/logging.php",
+      "Text-content-length": "5730",
+      "Text-content-md5": "d6b462243a46f0b217a81d42a6183ab8",
+      "Text-content-sha1": "47f7dad7f88370cf0700c7bc1b9952403e729ac7"
+    },
+    {
+      "Content-length": "233612",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/kotoba struct.sql",
+      "Text-content-length": "233612",
+      "Text-content-md5": "5d550831ae472cb82241f6c33f564b18",
+      "Text-content-sha1": "895437fc433de77c7288ba8e2d6981c9a4e768e8"
+    },
+    {
+      "Content-length": "98076",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/stored procedures.sql",
+      "Text-content-length": "98076",
+      "Text-content-md5": "754fcb97b2c9f66886c923e27cab18be",
+      "Text-content-sha1": "08f99e21045e907d92e1ee770b27478f0ea41613"
+    },
+    {
+      "Content-length": "2530",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/Russian/adm_panel.tpl",
+      "Text-content-length": "2530",
+      "Text-content-md5": "b97f3a7a95bb51d739f82a71ddfa1f1b",
+      "Text-content-sha1": "bedc806d7cf4f6bb5e46bc2f321fb539b6bfc64e"
+    },
+    {
+      "Content-length": "948",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/Russian/mod_panel.tpl",
+      "Text-content-length": "948",
+      "Text-content-md5": "d4c2862cdee217532280f29b2e2a0f57",
+      "Text-content-sha1": "ffbb0c343973a310b0cd2735977c2aa0c64e8b97"
+    },
+    {
+      "Content-length": "619",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/Russian/moderate_footer.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "609",
+      "Text-content-md5": "5b5b96fca02f56a3f061a6857328fbf1",
+      "Text-content-sha1": "2cf275211b3218bd90d6945e166618daf9658542"
+    },
+    {
+      "Content-length": "2664",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/Russian/moderate_header.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "2654",
+      "Text-content-md5": "d6bdd0f8401e71a6d8f7ae3c3d4aca0f",
+      "Text-content-sha1": "1c3c901d3173f33d24968719e4d2add88c2f04c2"
+    },
+    {
+      "Content-length": "2015",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/Russian/moderate_post.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "2005",
+      "Text-content-md5": "09fe8ba47f71c9fdc0a6513882ded4b6",
+      "Text-content-sha1": "a4717d77e8100e5b80d717778fe77df7bb147606"
+    }
+  ],
+  "path": "/",
+  "revision": 190,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-12-30T13:09:21.261774Z",
+    "svn:log": "Набросок админского скрипта. Другие небольшие изменения."
+  }
+}

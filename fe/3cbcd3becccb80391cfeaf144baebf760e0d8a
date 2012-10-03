@@ -1,0 +1,55 @@
+{
+  "directories": [
+    "branches/kotoba",
+    "branches/kotoba/smarty",
+    "branches/kotoba/smarty/kotoba",
+    "branches/kotoba/smarty/kotoba/templates",
+    "branches/kotoba/smarty/internals",
+    "branches/kotoba/smarty/plugins",
+    "branches/kotoba/smarty/kotoba/cache",
+    "branches/kotoba/smarty/kotoba/configs",
+    "branches/kotoba/smarty/kotoba/templates_c"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "1045",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/smarty/kotoba/templates/board_list.tpl",
+      "Text-content-length": "1045",
+      "Text-content-md5": "0f688e9992194b337395606da6e64c25",
+      "Text-content-sha1": "5edfce151c0a9da3ed96dac7db62dde00b3ec307"
+    },
+    {
+      "Content-length": "556",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/smarty/kotoba/templates/error.tpl",
+      "Text-content-length": "556",
+      "Text-content-md5": "bb06d8ce91bb452acf7dd9ab8c6cb42a",
+      "Text-content-sha1": "3abde6edc181421c89fbdc4cc6903e364f0c39c1"
+    },
+    {
+      "Content-length": "890",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/smarty/kotoba/templates/header.tpl",
+      "Text-content-length": "890",
+      "Text-content-md5": "0ad9faf465a914c65fd53ff41d01c741",
+      "Text-content-sha1": "a0bda62bc7179f6c9521e9a692a2260912f1de54"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 124,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T09:17:46.668132Z",
+    "svn:log": "Изменения в шаблонах."
+  }
+}

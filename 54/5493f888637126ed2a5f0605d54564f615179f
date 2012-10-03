@@ -1,0 +1,46 @@
+{
+  "directories": [
+    "trunk"
+  ],
+  "node_properties": {},
+  "nodes": [
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "branches",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "tags",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk",
+      "Prop-content-length": "10"
+    }
+  ],
+  "path": "trunk",
+  "revision": 1,
+  "revision_properties": {
+    "google:author": "unknown",
+    "svn:date": "2009-02-06T00:04:57.350406Z",
+    "svn:log": "Initial directory structure."
+  },
+  "revision_zero": {
+    "nodes": [],
+    "properties": {
+      "svn:date": "2009-02-06T00:04:57.140110Z",
+      "svn:sync-from-url": "http://kotoba-ib.googlecode.com/svn",
+      "svn:sync-from-uuid": "c9e0983a-f3e1-11dd-8c4e-4bbb75a408b7",
+      "svn:sync-last-merged-rev": "522"
+    },
+    "revision": 0
+  }
+}

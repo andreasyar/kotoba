@@ -1,0 +1,63 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "30732",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "30732",
+      "Text-content-md5": "1ad89a7d59a320e180733861843ea546",
+      "Text-content-sha1": "37d8da252ecd76412374511246bdaef27b739bcf"
+    },
+    {
+      "Content-length": "10888",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "10888",
+      "Text-content-md5": "80adac7d565b4a3a87a50bd66a5bf955",
+      "Text-content-sha1": "99e30290cf4f6da930a906b302de047577f138f5"
+    },
+    {
+      "Content-length": "29172",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "29172",
+      "Text-content-md5": "031aa6c94e0eed5ef30e41d1260a03f6",
+      "Text-content-sha1": "5fadd01af892385d42acc324f9e4bd40aac2a1ff"
+    }
+  ],
+  "path": "/",
+  "revision": 23,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-19T12:35:06.885157Z",
+    "svn:log": "Добавлены ссылки на посты в рамках доски."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "directories": [
+    "branches/kotoba",
+    "branches/kotoba/smarty",
+    "branches/kotoba/smarty/kotoba",
+    "branches/kotoba/smarty/kotoba/templates",
+    "branches/kotoba/smarty/internals",
+    "branches/kotoba/smarty/plugins",
+    "branches/kotoba/smarty/kotoba/cache",
+    "branches/kotoba/smarty/kotoba/configs",
+    "branches/kotoba/smarty/kotoba/templates_c",
+    "branches/kotoba/sessions",
+    "branches/kotoba/res",
+    "branches/kotoba/nbproject",
+    "branches/kotoba/nbproject/private",
+    "branches/kotoba/stat"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba/nbproject",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba/nbproject/private",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "125",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/nbproject/private/private.properties",
+      "Prop-content-length": "10",
+      "Text-content-length": "115",
+      "Text-content-md5": "4256e610b828ccaefbc5947f1b4aa738",
+      "Text-content-sha1": "7970c77d22803214188d4f57539140c86e7c4ec4"
+    },
+    {
+      "Content-length": "221",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/nbproject/private/private.xml",
+      "Prop-content-length": "10",
+      "Text-content-length": "211",
+      "Text-content-md5": "8db5aa1af9a60c837ae0c674b2111063",
+      "Text-content-sha1": "4e616ef2ce25bfec3815cc2afc7676dd57902843"
+    },
+    {
+      "Content-length": "130",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/nbproject/project.properties",
+      "Prop-content-length": "10",
+      "Text-content-length": "120",
+      "Text-content-md5": "4aad25e24c83519ab6ea9012d5995504",
+      "Text-content-sha1": "83789eee76fa9dfe8d344bd9c4db995118d4d081"
+    },
+    {
+      "Content-length": "327",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/nbproject/project.xml",
+      "Prop-content-length": "10",
+      "Text-content-length": "317",
+      "Text-content-md5": "484f94a40b6f14f6a61d58ba09b2f776",
+      "Text-content-sha1": "8ed698a23b7900339e4291ee0550c5b541726bc4"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba/stat",
+      "Prop-content-length": "10"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 127,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T09:39:20.744736Z",
+    "svn:log": ""
+  }
+}

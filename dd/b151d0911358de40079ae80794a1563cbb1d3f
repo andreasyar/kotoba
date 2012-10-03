@@ -1,0 +1,94 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "27278",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "27278",
+      "Text-content-md5": "5c1a364543bf4165381a1685b57f5787",
+      "Text-content-sha1": "609751b942d3639f7f75770f4603aaeb7ea48fc8"
+    },
+    {
+      "Content-length": "27283",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "27283",
+      "Text-content-md5": "e64dcd8e046b041f76a4664b540d39f9",
+      "Text-content-sha1": "f02169d5c6113ed876ac4b7e4fe46b26e894e72d"
+    },
+    {
+      "Content-length": "14656",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Arch.dot",
+      "Prop-content-length": "10",
+      "Text-content-length": "14646",
+      "Text-content-md5": "f0160cf9dd99dccb33b9cc05a920f38d",
+      "Text-content-sha1": "ca463902e3a804bb389ea3b583271e61520fa0d0"
+    },
+    {
+      "Content-length": "1098",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Kotoba mark 1.txt",
+      "Text-content-length": "1098",
+      "Text-content-md5": "310e5affb5c14cc70381f20c90b3b507",
+      "Text-content-sha1": "e77eecb8c03f0c25d43d624e22fa158012b48e03"
+    },
+    {
+      "Content-length": "3844",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/kotoba struct.sql",
+      "Text-content-length": "3844",
+      "Text-content-md5": "10e8b812ddc9ca43dee5bdad981ef19a",
+      "Text-content-sha1": "2941039b858bea966af0ca25fce59da8feda96a1"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/res/register_bs.png"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/res/login_bs.png"
+    }
+  ],
+  "path": "/",
+  "revision": 46,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-04-08T13:48:14.233537Z",
+    "svn:log": "Добавлен набросок архитектуры и заметка к документации разметки. Другие небольшие изменения."
+  }
+}

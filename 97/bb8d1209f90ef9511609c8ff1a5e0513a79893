@@ -1,0 +1,130 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "5726",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/admin/boards.php",
+      "Text-content-length": "5726",
+      "Text-content-md5": "5a3e584abd1d93cb1908eecea7a5b575",
+      "Text-content-sha1": "fa053bfe42ff82832c8b70f6ce191a556a85f197"
+    },
+    {
+      "Content-length": "3817",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/kotoba.css",
+      "Text-content-length": "3817",
+      "Text-content-md5": "832d6a0cf69c196170b405a980ae18e1",
+      "Text-content-sha1": "4d555cbd0ec3191f199a4a14236dde904997597a"
+    },
+    {
+      "Content-length": "23391",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/mark.php",
+      "Text-content-length": "23391",
+      "Text-content-md5": "9bb2a87f926407d38d8a2b33df360386",
+      "Text-content-sha1": "8fd52eea0d8711be1cfea75ad3c25a72e5fe0abc"
+    },
+    {
+      "Content-length": "10127",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba-tables.sql",
+      "Text-content-length": "10127",
+      "Text-content-md5": "b0377603eab9b273bcd952f0ab5143a1",
+      "Text-content-sha1": "8b6e4c7fce9f41a4116de41d26026574d9729bd4"
+    },
+    {
+      "Content-length": "45668",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba.sql",
+      "Text-content-length": "45668",
+      "Text-content-md5": "1ce7bc3d3d1817b81542f789a5a3a45a",
+      "Text-content-sha1": "6f9a1edd61eb4990ad347d5b0f617505b6b09586"
+    },
+    {
+      "Content-length": "1109",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/header.tpl",
+      "Text-content-length": "1109",
+      "Text-content-md5": "29bb7b2255b34ac2b67e4db9c9f75188",
+      "Text-content-sha1": "09f362587b6f62aee4f96a117850efecfabb07dd"
+    }
+  ],
+  "path": "trunk",
+  "revision": 102,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-07-21T11:48:39.137665Z",
+    "svn:log": "* spoiler css now work\n* acl stage in progress\n* some debug output blocks cleanup\n\n"
+  }
+}

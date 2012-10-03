@@ -1,0 +1,332 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin",
+    "branches/kotoba-ib",
+    "branches/kotoba-ib/smarty",
+    "branches/kotoba-ib/smarty/kotoba",
+    "branches/kotoba-ib/smarty/kotoba/templates",
+    "branches/kotoba-ib/smarty/internals",
+    "branches/kotoba-ib/smarty/plugins",
+    "branches/kotoba-ib/smarty/kotoba/cache",
+    "branches/kotoba-ib/smarty/kotoba/configs",
+    "branches/kotoba-ib/smarty/kotoba/templates_c",
+    "branches/kotoba-ib/sessions",
+    "branches/kotoba-ib/res",
+    "branches/kotoba-ib/nbproject",
+    "branches/kotoba-ib/nbproject/private",
+    "branches/kotoba-ib/stat",
+    "branches/kotoba-ib/smarty/kotoba/cache/English",
+    "branches/kotoba-ib/smarty/kotoba/cache/Russian",
+    "branches/kotoba-ib/smarty/kotoba/configs/English",
+    "branches/kotoba-ib/smarty/kotoba/configs/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates/English",
+    "branches/kotoba-ib/smarty/kotoba/templates/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/English",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "branches/kotoba-ib/admin",
+    "branches/kotoba-ib/lang",
+    "branches/kotoba-ib/lang/English",
+    "branches/kotoba-ib/lang/Russian",
+    "branches/kotoba-ib/log"
+  ],
+  "node_properties": {
+    "branches/kotoba-ib": {
+      "svn:ignore": ".xt.xt\n"
+    },
+    "branches/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "38",
+      "Node-action": "change",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba-ib",
+      "Prop-content-length": "38"
+    },
+    {
+      "Content-length": "1980",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/admin/edit_groups.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1970",
+      "Text-content-md5": "df7a00e04c79b1477b09a779403eb1dc",
+      "Text-content-sha1": "540dc9af29c120395a4fdda5c58590b00d687948"
+    },
+    {
+      "Content-length": "543",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/admin/my_id.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "533",
+      "Text-content-md5": "87820360e5b5f7cc8ad048ac4e21c811",
+      "Text-content-sha1": "1db16c8de67ea6f756de56d796266530f473a904"
+    },
+    {
+      "Content-length": "25120",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/common.php",
+      "Text-content-length": "25120",
+      "Text-content-md5": "4e75e5054bcd565688154bc14626c05f",
+      "Text-content-sha1": "c610762060ec1ab6c4757609ec4faf56dc1d91ba"
+    },
+    {
+      "Content-length": "8098",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/config.default",
+      "Text-content-length": "8098",
+      "Text-content-md5": "31e4826d5553df147ba589415f0b203d",
+      "Text-content-sha1": "74bdd9a9c5777d3bc8e1ce008d06d790db43358f"
+    },
+    {
+      "Content-length": "4195",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/edit_settings.php",
+      "Text-content-length": "4195",
+      "Text-content-md5": "50335929531367622b3a43348ee3166b",
+      "Text-content-sha1": "96d539c8331033473e6ed4c1d5354c13c411a9de"
+    },
+    {
+      "Content-length": "1041",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/index.php",
+      "Text-content-length": "1041",
+      "Text-content-md5": "892c0dcf105c70328b5706dfbb47a70a",
+      "Text-content-sha1": "6d4c32f3b695529e7bdc09513adb2529791e9037"
+    },
+    {
+      "Content-length": "560",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/kwrapper.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "550",
+      "Text-content-md5": "e3fd77102b1aff1e53c5fcb3f0b4732e",
+      "Text-content-sha1": "6838fd90e5232dff09bf14173bd51cd3a75847e0"
+    },
+    {
+      "Content-length": "690",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/lang/English/errors.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "680",
+      "Text-content-md5": "b7a9c4ec87e737c7c4e7bdb29eff8465",
+      "Text-content-sha1": "15928783fd1f3fea3cc8b885084f2bcfeadfc6fc"
+    },
+    {
+      "Content-length": "4071",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/lang/Russian/errors.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "4061",
+      "Text-content-md5": "a38f34426dd7ad7fd3b8bb30d4c77ffd",
+      "Text-content-sha1": "a137796b199e44fc9c32f5e88500d177ebb58a7a"
+    },
+    {
+      "Content-length": "431",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/lang/Russian/logging.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "421",
+      "Text-content-md5": "d4bd9db6f5e46ddec03d0b5a43ec7575",
+      "Text-content-sha1": "af0afc1d17a6cc3cfb45777675bb2082075c6cef"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/lang/Russian/log_messages.php"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/lang/Russian/error_messages.php"
+    },
+    {
+      "Content-length": "422",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/nbproject/private/private.xml",
+      "Text-content-length": "422",
+      "Text-content-md5": "a0ba04816b7000d921c2d7b39685d2f1",
+      "Text-content-sha1": "0631d4ea0978e390f823c08f5dca4420ffc6a137"
+    },
+    {
+      "Content-length": "1724",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/res/install-Russian-Windows.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1714",
+      "Text-content-md5": "a935d0c1cfa9b18980640e7aa74e4692",
+      "Text-content-sha1": "87901d1285e7b8ebe56e766c13e52bd665874bad"
+    },
+    {
+      "Content-length": "27032",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/res/kotoba struct.sql",
+      "Text-content-length": "27032",
+      "Text-content-md5": "3764f5481a5f875bf62c582fd0c7b5b6",
+      "Text-content-sha1": "51b399e74950b4527ee5e33fe05db27ed635f9fb"
+    },
+    {
+      "Content-length": "4424",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/res/stored procedures.sql",
+      "Text-content-length": "4424",
+      "Text-content-md5": "569e242a5f551ea19e3b51dfb3d25801",
+      "Text-content-sha1": "f1d8b057944e87e04142cd9a1e6840ed70203dff"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/res/lang"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/English/index.tpl"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/English/header.tpl"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/English/error.tpl"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/English/footer.tpl"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/English/board_list.tpl"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/English/edit_settings.tpl"
+    },
+    {
+      "Content-length": "1079",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/board_list.tpl",
+      "Text-content-length": "1079",
+      "Text-content-md5": "7b85d695d82afea26e59bf0a96ab319c",
+      "Text-content-sha1": "ae7898a05d98d10e241d155febc22e41deca7e60"
+    },
+    {
+      "Content-length": "2765",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/edit_settings.tpl",
+      "Text-content-length": "2765",
+      "Text-content-md5": "0836d5a643f9f08573c64e9ba6103623",
+      "Text-content-sha1": "f54f0e8a9fb1bc5c6ba4f6fd4abb8e7ddffa0c7d"
+    },
+    {
+      "Content-length": "860",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/error.tpl",
+      "Text-content-length": "860",
+      "Text-content-md5": "7d3fb9fe69b580b08aca37a00fa60e85",
+      "Text-content-sha1": "c77348176f3cc50a835a23c427d7797c4762e8cd"
+    },
+    {
+      "Content-length": "904",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/header.tpl",
+      "Text-content-length": "904",
+      "Text-content-md5": "d7a92a271d27af0532fad1055c4f7aa2",
+      "Text-content-sha1": "9dde29e06392f2376525954f32147650b0138b3c"
+    },
+    {
+      "Content-length": "1427",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/index.tpl",
+      "Text-content-length": "1427",
+      "Text-content-md5": "37df501860aee637d76e999a2aeda0f0",
+      "Text-content-sha1": "f863263df3fbd8d9bcb2219435d0da3fc5e9d3a9"
+    }
+  ],
+  "path": "/",
+  "revision": 135,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-09-05T12:27:10.325946Z",
+    "svn:log": "Изменён принцип хранения настроек и сообщений об ошибках. Из-за проблем с областью видимости, которые не разрешили даже пространства имён и проблем с производительностью констант, введены классы в качестве обёртки, чтобы доступ к настройкам и сообщениям об ошибках был отовсюду. Добавлен пробный скрипт установки Котобы под Windows на русском языке. Добавлено редактирование групп, скрипт просмотра id, а так же обёртка для стандартно добавляемых файлов в начале каждого скрипта и другие небольшие изменения."
+  }
+}

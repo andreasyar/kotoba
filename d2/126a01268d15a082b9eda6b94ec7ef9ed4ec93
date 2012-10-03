@@ -1,0 +1,54 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "29149",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "29149",
+      "Text-content-md5": "738382556fef310da87342dac4164132",
+      "Text-content-sha1": "5eb578270935cce19e7e49abeb7134c9e0a8801c"
+    },
+    {
+      "Content-length": "27711",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "27711",
+      "Text-content-md5": "4bad95d868c70774eede4eef81e922e6",
+      "Text-content-sha1": "36d274d2865eca68ecfcc888399b9edde473ec88"
+    }
+  ],
+  "path": "/",
+  "revision": 22,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-19T06:12:02.166208Z",
+    "svn:log": "Исправление ссылок Вакаба марк на посты с других досок."
+  }
+}

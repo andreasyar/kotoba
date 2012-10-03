@@ -1,0 +1,143 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin",
+    "trunk/kotoba-ib-database",
+    "trunk/kotoba-ib-database/img",
+    "trunk/kotoba-ib-database/nbproject",
+    "trunk/kotoba-ib-database/nbproject/private",
+    "trunk/kotoba-ib-database/res",
+    "trunk/kotoba-ib-database/smarty",
+    "trunk/kotoba-ib-database/smarty/internals",
+    "trunk/kotoba-ib-database/smarty/kotoba",
+    "trunk/kotoba-ib-database/smarty/kotoba/cache",
+    "trunk/kotoba-ib-database/smarty/kotoba/configs",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates",
+    "trunk/kotoba-ib-database/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib-database/smarty/plugins",
+    "trunk/kotoba-ib-database/service",
+    "trunk/kotoba-ib-database/sessions",
+    "trunk/kotoba-ib-database/admin"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib-database/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib-database/res/kotoba-tables.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib-database/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib-database/res/kotoba.sql": {
+      "svn:mergeinfo": ""
+    },
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "3369",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/config.default",
+      "Text-content-length": "3369",
+      "Text-content-md5": "33749bcb5bbc9a6d2afa320305607704",
+      "Text-content-sha1": "469877cb649cad94ca7344c8effd52a25af2aa01"
+    },
+    {
+      "Content-length": "14232",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/events.php",
+      "Text-content-length": "14232",
+      "Text-content-md5": "95bc73b61bf4e4d83ab005b4a7a24e3f",
+      "Text-content-sha1": "a9647e22519e46705a52e0a11dc8508f73a41010"
+    },
+    {
+      "Content-length": "5869",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/register.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "5859",
+      "Text-content-md5": "e5f48a69d5fc2cb85b3bcde6ce5b7385",
+      "Text-content-sha1": "648413ffbea8b6cb001e4b9ff2942cb5d069f378"
+    },
+    {
+      "Content-length": "37325",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/res/kotoba.sql",
+      "Text-content-length": "37325",
+      "Text-content-md5": "9921763a344281909a246995a678f8bc",
+      "Text-content-sha1": "267e0fa4f571128b17910f961489340fbc253b2e"
+    },
+    {
+      "Content-length": "849",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/session_processing.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "839",
+      "Text-content-md5": "3cef230a44782ba343cb4893e631c87b",
+      "Text-content-sha1": "4a9a5ead03ee6c8821bc9085e6543d3a2a411ac3"
+    },
+    {
+      "Content-length": "996",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/smarty/kotoba/templates/register.tpl",
+      "Text-content-length": "996",
+      "Text-content-md5": "06fe9eaad49a72f7a89864be9eb4962a",
+      "Text-content-sha1": "0275bf212ce044ff62d0583f2a55afd3235549aa"
+    },
+    {
+      "Content-length": "6813",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib-database/threads.php",
+      "Text-content-length": "6813",
+      "Text-content-md5": "0b42522d692abdc6090bfad85faed273",
+      "Text-content-sha1": "825cb910d78a112de4ae0a3dd3a686de4e73b21e"
+    }
+  ],
+  "path": "/",
+  "revision": 95,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-06-23T12:39:32.165907Z",
+    "svn:log": "* Now one may register on kotoba (and even setup some settings)\n\n"
+  }
+}

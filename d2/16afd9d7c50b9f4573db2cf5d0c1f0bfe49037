@@ -1,0 +1,123 @@
+{
+  "directories": [
+    "branches/kotoba-ib",
+    "branches/kotoba-ib/smarty",
+    "branches/kotoba-ib/smarty/kotoba",
+    "branches/kotoba-ib/smarty/kotoba/templates",
+    "branches/kotoba-ib/smarty/internals",
+    "branches/kotoba-ib/smarty/plugins",
+    "branches/kotoba-ib/smarty/kotoba/cache",
+    "branches/kotoba-ib/smarty/kotoba/configs",
+    "branches/kotoba-ib/smarty/kotoba/templates_c",
+    "branches/kotoba-ib/sessions",
+    "branches/kotoba-ib/res",
+    "branches/kotoba-ib/nbproject",
+    "branches/kotoba-ib/nbproject/private",
+    "branches/kotoba-ib/stat",
+    "branches/kotoba-ib/smarty/kotoba/cache/English",
+    "branches/kotoba-ib/smarty/kotoba/cache/Russian",
+    "branches/kotoba-ib/smarty/kotoba/configs/English",
+    "branches/kotoba-ib/smarty/kotoba/configs/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates/English",
+    "branches/kotoba-ib/smarty/kotoba/templates/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/English",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "branches/kotoba-ib/admin",
+    "branches/kotoba-ib/lang",
+    "branches/kotoba-ib/lang/English",
+    "branches/kotoba-ib/lang/Russian",
+    "branches/kotoba-ib/log"
+  ],
+  "node_properties": {
+    "branches/kotoba-ib": {
+      "svn:ignore": ".xt.xt\n"
+    },
+    "branches/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "2293",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/admin/edit_languages.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "2283",
+      "Text-content-md5": "8fe1803ffe35620660c258e45d7aa413",
+      "Text-content-sha1": "6d2656dd37f86c88e83c02f4b554d09805e3219a"
+    },
+    {
+      "Content-length": "34905",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/common.php",
+      "Text-content-length": "34905",
+      "Text-content-md5": "f0aaa5b27fc3742317d07a3d0c2ee8a3",
+      "Text-content-sha1": "7a8352a42f955f32213282a922e82776373627b9"
+    },
+    {
+      "Content-length": "13360",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/events.php",
+      "Text-content-length": "13360",
+      "Text-content-md5": "347feeaac58727453915d204be51c05d",
+      "Text-content-sha1": "034935d6f0ad4d38dff3fdd2d5ee883a7818fbd8"
+    },
+    {
+      "Content-length": "5211",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/lang/Russian/errors.php",
+      "Text-content-length": "5211",
+      "Text-content-md5": "a24a3d7d5b26b9a00a61f86540f7cc6a",
+      "Text-content-sha1": "2fb9a0f1d258d3f5b0dc49375ddacae8e8988433"
+    },
+    {
+      "Content-length": "8440",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/res/stored procedures.sql",
+      "Text-content-length": "8440",
+      "Text-content-md5": "3ed6166d5984cfaaa715c596efe9530a",
+      "Text-content-sha1": "f5d46e62b0fe25fa02f48cec72ff5600551c869d"
+    },
+    {
+      "Content-length": "1101",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/adm_panel.tpl",
+      "Text-content-length": "1101",
+      "Text-content-md5": "01a571095e638e54903d49d7fb719341",
+      "Text-content-sha1": "811729257e4c91cd66fc3bce03ac8f965d981546"
+    },
+    {
+      "Content-length": "1602",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/edit_groups.tpl",
+      "Text-content-length": "1602",
+      "Text-content-md5": "d16117e7fbfb4dcc7cf1bd09265951ec",
+      "Text-content-sha1": "86c0eef6703cdc39edf5fc6691339c056e931527"
+    },
+    {
+      "Content-length": "1546",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/edit_languages.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "1536",
+      "Text-content-md5": "6793ab9279382af3f1caac6b021f5c49",
+      "Text-content-sha1": "68e2c5f03b7e58624ebc14d4adcd7bad86940ae3"
+    }
+  ],
+  "path": "branches/kotoba-ib",
+  "revision": 138,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-09-06T23:50:28.306157Z",
+    "svn:log": "Добавлен скрипт редактирования языков. Другие небольшие изменения."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "directories": [
+    "branches/kotoba",
+    "branches/kotoba/smarty",
+    "branches/kotoba/smarty/kotoba",
+    "branches/kotoba/smarty/kotoba/templates",
+    "branches/kotoba/smarty/internals",
+    "branches/kotoba/smarty/plugins",
+    "branches/kotoba/smarty/kotoba/cache",
+    "branches/kotoba/smarty/kotoba/configs",
+    "branches/kotoba/smarty/kotoba/templates_c",
+    "branches/kotoba/sessions",
+    "branches/kotoba/res",
+    "branches/kotoba/nbproject",
+    "branches/kotoba/nbproject/private",
+    "branches/kotoba/stat"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "88",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/res/dump base bkp.bat",
+      "Prop-content-length": "10",
+      "Text-content-length": "78",
+      "Text-content-md5": "4f114d908c6eb007b677862bad5bd905",
+      "Text-content-sha1": "cb4bd4d42bd4306b5b6461bf104b0f6c036ea95a"
+    },
+    {
+      "Content-length": "94",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/res/dump base struct.bat",
+      "Prop-content-length": "10",
+      "Text-content-length": "84",
+      "Text-content-md5": "fa18ab640c8ac875074960aee5361cde",
+      "Text-content-sha1": "402e29d4efede98b06d3f7dc89ac3b5d95d95109"
+    },
+    {
+      "Content-length": "18230",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/res/kotoba struct.sql",
+      "Prop-content-length": "10",
+      "Text-content-length": "18220",
+      "Text-content-md5": "38cc02431840b808b0f973aa5a44146b",
+      "Text-content-sha1": "46535590525599c2e0980dc16e3dc91cd5efb1fb"
+    },
+    {
+      "Content-length": "1630",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/res/stored procedures.sql",
+      "Prop-content-length": "10",
+      "Text-content-length": "1620",
+      "Text-content-md5": "50c9361b8e01e3f341822f478ab39ba5",
+      "Text-content-sha1": "7512379742eb17f65b1e672f4b1ddf3dbd3b1d8c"
+    },
+    {
+      "Content-length": "7007",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/res/tables with test data.sql",
+      "Prop-content-length": "10",
+      "Text-content-length": "6997",
+      "Text-content-md5": "723aca14a98ad68848ef51128bdcff46",
+      "Text-content-sha1": "d28199a482ac7e5db5a4b11359e713e34857f45c"
+    },
+    {
+      "Content-length": "6625",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba/res/tables.sql",
+      "Prop-content-length": "10",
+      "Text-content-length": "6615",
+      "Text-content-md5": "d4602e79282a8fe8a5d5d97a413c4d0a",
+      "Text-content-sha1": "6dcf0d38f43caf779aab879871dc22a57bd94274"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 128,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T09:43:46.799276Z",
+    "svn:log": "Скрипты для создания БД"
+  }
+}

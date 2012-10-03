@@ -1,0 +1,91 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "3767",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/config.default",
+      "Text-content-length": "3767",
+      "Text-content-md5": "5cceb44279fefa8d49db78c6902404ab",
+      "Text-content-sha1": "1a079a4a07e07df971579a7d72e2b030f9aaaf00"
+    },
+    {
+      "Content-length": "930",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/databaseconnect.php",
+      "Text-content-length": "930",
+      "Text-content-md5": "2515e8827b0dee5eb30a25a99c58fc32",
+      "Text-content-sha1": "0219bdb7a68e43dbd0b62e42dfe74f072145c290"
+    },
+    {
+      "Content-length": "13708",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "13708",
+      "Text-content-md5": "eb48f58e46d9c7d63d5b71093bdd60e9",
+      "Text-content-sha1": "e4cefcaec0bcf5084d5e9f89e37553827122362f"
+    },
+    {
+      "Content-length": "3060",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/login.php",
+      "Text-content-length": "3060",
+      "Text-content-md5": "3efcacfb0d729536d6ae9adda362c7f0",
+      "Text-content-sha1": "2778a59d1cd525a90b7003b6564432708fae5fcb"
+    },
+    {
+      "Content-length": "1644",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/register.php",
+      "Text-content-length": "1644",
+      "Text-content-md5": "5f30625b1d6e378151777613e045cdec",
+      "Text-content-sha1": "47168eaef0c85d3fd00d1764da2a0a463523b39e"
+    }
+  ],
+  "path": "/",
+  "revision": 75,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-05-24T06:48:54.398787Z",
+    "svn:log": "Database settings moved to config file\nLogin and register (error) messages now in events.php\n\n"
+  }
+}

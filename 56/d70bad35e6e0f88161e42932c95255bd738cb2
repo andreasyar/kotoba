@@ -1,0 +1,119 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions",
+    "trunk/kotoba-ib/res/concept",
+    "trunk/kotoba-ib/res/concept/database",
+    "trunk/kotoba-ib/res/concept/database/interface",
+    "trunk/kotoba-ib/admin"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/admin",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "1545",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/admin/boards.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "1535",
+      "Text-content-md5": "fd8a7478c2c8816d845fbe76af005ac1",
+      "Text-content-sha1": "152ed9435e9981662ea0b0b3eb2c14ca1c91feec"
+    },
+    {
+      "Content-length": "3821",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "3821",
+      "Text-content-md5": "e2a2e0c87dd0df44c24c8391227b1323",
+      "Text-content-sha1": "d259d1e16fcce53ce382ba5076a80dd4e1fcc9b7"
+    },
+    {
+      "Content-length": "3024",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/config.default",
+      "Text-content-length": "3024",
+      "Text-content-md5": "4c32222ffae3c3843590a663a15923d7",
+      "Text-content-sha1": "0b38c9d3f686db4d54dd844fd70b0ebbe0b7d49c"
+    },
+    {
+      "Content-length": "970",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/database_connect.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "960",
+      "Text-content-md5": "b204d3cfd1a4b03ea1a45d7245c9b87a",
+      "Text-content-sha1": "53bdbe7992cac15f99ed013f97daf02e37d2927f"
+    },
+    {
+      "Content-length": "20725",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/concept/database/kotoba.sql",
+      "Text-content-length": "20725",
+      "Text-content-md5": "a61a6681df295e3704d63e83eabf8523",
+      "Text-content-sha1": "7b102192f558491dba3cb14d2ab63123a5885154"
+    },
+    {
+      "Content-length": "694",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/adm_boardline.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "684",
+      "Text-content-md5": "26812023f8c682a1a402c367d6e448a1",
+      "Text-content-sha1": "f7feb0c6ac44ff9a84652d3fe91ee573a57cc074"
+    },
+    {
+      "Content-length": "884",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/adm_boardsview.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "874",
+      "Text-content-md5": "61b4f17a5a55b64ac9e63674f1cd4ac5",
+      "Text-content-sha1": "900574c472da3f3d006e02a9f5edce60f7a1b292"
+    }
+  ],
+  "path": "trunk",
+  "revision": 76,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-05-27T12:47:21.371801Z",
+    "svn:log": "* Smarty setup routine moved from config.php to common.php\n\n* New procedure: sp_get_boards_ex - get boards list with settings, for admin use\n\n* Starting admin interface: boards (for use with new database scheme).\n"
+  }
+}

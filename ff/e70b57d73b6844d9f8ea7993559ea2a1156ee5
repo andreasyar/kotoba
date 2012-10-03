@@ -1,0 +1,181 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "5246",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "5246",
+      "Text-content-md5": "a6eff1c5c80a62601fc85ca00297bb98",
+      "Text-content-sha1": "759a42f97ab1b9e867dbcd356ba48c3c7ac7c540"
+    },
+    {
+      "Content-length": "26033",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "26033",
+      "Text-content-md5": "30d6fd3d7f669553070e17dc52a8353c",
+      "Text-content-sha1": "aa316cf6885a9b79f31b2c92fb582de071643e4a"
+    },
+    {
+      "Content-length": "13094",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "13094",
+      "Text-content-md5": "d8ffde015e372c5983ec44ae1181115b",
+      "Text-content-sha1": "8f610091c6bbf7977a917a798a2975566f5cf828"
+    },
+    {
+      "Content-length": "2116",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/index.php",
+      "Text-content-length": "2116",
+      "Text-content-md5": "31b658c3da839172c3dccc013fab89b3",
+      "Text-content-sha1": "45cd097d2ddaf2607371a7041397eeea328238d0"
+    },
+    {
+      "Content-length": "3931",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/login.php",
+      "Text-content-length": "3931",
+      "Text-content-md5": "29ef7d784389befddeade69eb10e148c",
+      "Text-content-sha1": "8162f229b896565a1af459d6a0f3985dab92bc8d"
+    },
+    {
+      "Content-length": "19391",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "19391",
+      "Text-content-md5": "cef26ca0985fd080319984480d65b728",
+      "Text-content-sha1": "f91bcc2de59c82517e8d4f8a56d4acf6f3db553f"
+    },
+    {
+      "Content-length": "7906",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/removepost.php",
+      "Text-content-length": "7906",
+      "Text-content-md5": "a2d069852e5deb55d8e10621b408299e",
+      "Text-content-sha1": "9aed0b3da8a9cd780efec9da573c0b2008d158c8"
+    },
+    {
+      "Content-length": "25638",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "25638",
+      "Text-content-md5": "9878229fa83f775d2ef4673a5fe52cec",
+      "Text-content-sha1": "1cfdeafd6ff35b1b55aca01d795001b131df1330"
+    },
+    {
+      "Content-length": "1175",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Kotoba tree.txt",
+      "Text-content-length": "1175",
+      "Text-content-md5": "4d82c2624634288a57bb464e9eaf8b31",
+      "Text-content-sha1": "c6aeeca61cc48039bf5ec8e4ee426bebaf466209"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/service",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "5721",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/service/RestoreSettings.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "5711",
+      "Text-content-md5": "c1bddd966e7304c0288d02a707a674df",
+      "Text-content-sha1": "faccd4416f7c5843c1c42c179bd2a0f71a99bdeb"
+    },
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "trunk/kotoba-ib/sessions",
+      "Prop-content-length": "10"
+    },
+    {
+      "Content-length": "819",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/RestoreSettings.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "809",
+      "Text-content-md5": "a365f814d41d5f840273bdbd2b07f2af",
+      "Text-content-sha1": "0a021dc46a6f5cbc51a5398a0e10ac063e1e46ee"
+    },
+    {
+      "Content-length": "1247",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/index.tpl",
+      "Text-content-length": "1247",
+      "Text-content-md5": "f0a42ea013b358c91ce03637069a3395",
+      "Text-content-sha1": "9380ccf6dfe4273155881e20324dae721fe683be"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/setup.php"
+    },
+    {
+      "Content-length": "12797",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "12797",
+      "Text-content-md5": "0295d1fa5ec220f6a617bea566e02dcd",
+      "Text-content-sha1": "58346b39aa4b7a3ec6d115fe88f126bee5faa82a"
+    }
+  ],
+  "path": "trunk",
+  "revision": 32,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-03-14T20:10:45.305041Z",
+    "svn:log": "Параметризована длина сообщения, темы и имени. Настройки Smarty перенесены в config.php. Переведены ошибки, возникающие при закачке файла, для них добавлены новые события. Добавлен служебный скрипт очистки настроек постов. Другие мелкие изменения."
+  }
+}

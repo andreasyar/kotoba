@@ -1,0 +1,212 @@
+{
+  "directories": [
+    "branches/kotoba-ib",
+    "branches/kotoba-ib/smarty",
+    "branches/kotoba-ib/smarty/kotoba",
+    "branches/kotoba-ib/smarty/kotoba/templates",
+    "branches/kotoba-ib/smarty/internals",
+    "branches/kotoba-ib/smarty/plugins",
+    "branches/kotoba-ib/smarty/kotoba/cache",
+    "branches/kotoba-ib/smarty/kotoba/configs",
+    "branches/kotoba-ib/smarty/kotoba/templates_c",
+    "branches/kotoba-ib/sessions",
+    "branches/kotoba-ib/res",
+    "branches/kotoba-ib/nbproject",
+    "branches/kotoba-ib/nbproject/private",
+    "branches/kotoba-ib/stat",
+    "branches/kotoba-ib/smarty/kotoba/cache/English",
+    "branches/kotoba-ib/smarty/kotoba/cache/Russian",
+    "branches/kotoba-ib/smarty/kotoba/configs/English",
+    "branches/kotoba-ib/smarty/kotoba/configs/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates/English",
+    "branches/kotoba-ib/smarty/kotoba/templates/Russian",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/English",
+    "branches/kotoba-ib/smarty/kotoba/templates_c/Russian",
+    "branches/kotoba-ib/admin",
+    "branches/kotoba-ib/lang",
+    "branches/kotoba-ib/lang/English",
+    "branches/kotoba-ib/lang/Russian",
+    "branches/kotoba-ib/log"
+  ],
+  "node_properties": {
+    "branches/kotoba-ib": {
+      "svn:ignore": ".xt.xt\n"
+    },
+    "branches/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4005",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/admin/edit_threads.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "3995",
+      "Text-content-md5": "f9c20897771bd8bfdf26a846adcff2cb",
+      "Text-content-sha1": "bde2137cacc5b93b948d274de896e5a46efa984a"
+    },
+    {
+      "Content-length": "76091",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/common.php",
+      "Text-content-length": "76091",
+      "Text-content-md5": "20b1d3ceafa0462752cd26f6325e6a56",
+      "Text-content-sha1": "009aa5da416ea7bfe8ad99baa6f6c98cbef12648"
+    },
+    {
+      "Content-length": "13060",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/events.php",
+      "Text-content-length": "13060",
+      "Text-content-md5": "e20c9e29d7fa5ba4ae9eb3d8279c9285",
+      "Text-content-sha1": "70c7d9deae16d541744e4c58baa320a29eccb5f4"
+    },
+    {
+      "Content-length": "11738",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/lang/Russian/errors.php",
+      "Text-content-length": "11738",
+      "Text-content-md5": "f86ce3d4448c34064bdb781efc9bdec7",
+      "Text-content-sha1": "0f27619c9fa2bc99e0de050a3a7f4b8d0353014e"
+    },
+    {
+      "Content-length": "2467",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/lang/Russian/logging.php",
+      "Text-content-length": "2467",
+      "Text-content-md5": "0f409280ac8c5da01c994699be895193",
+      "Text-content-sha1": "638112037c7de19756b85fe97ddb08332b87cdf6"
+    },
+    {
+      "Content-length": "7420",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/preview.php",
+      "Text-content-length": "7420",
+      "Text-content-md5": "9b0bb1aeedd3549e5b0240956d84cc23",
+      "Text-content-sha1": "70743d6b1788259e9e195023314f8674aba54f71"
+    },
+    {
+      "Content-length": "26948",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/res/stored procedures.sql",
+      "Text-content-length": "26948",
+      "Text-content-md5": "4087989708cc97ce7d85c3ee33f91add",
+      "Text-content-sha1": "9825fef0498af5f5205257d4cc062c5a13e3ee50"
+    },
+    {
+      "Content-length": "2224",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/adm_panel.tpl",
+      "Text-content-length": "2224",
+      "Text-content-md5": "acaf6aba10d69bff68402b3509125c08",
+      "Text-content-sha1": "8cf4d0b1b7f64c8c05684a527d5c728da98282b4"
+    },
+    {
+      "Content-length": "1027",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/edit_threads.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "1017",
+      "Text-content-md5": "1d45fc1be0f7434620dee1794fe86e15",
+      "Text-content-sha1": "b099d0f1457b1571b46d8aed378a72ad62e4e6ca"
+    },
+    {
+      "Content-length": "805",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/mod_panel.tpl",
+      "Text-content-length": "805",
+      "Text-content-md5": "0d82660e726afb70f106f6b6aafe46e6",
+      "Text-content-sha1": "5be7fbacb3611a94ffecb0557c5d2412222dedeb"
+    },
+    {
+      "Content-length": "4029",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/preview_thread_header.tpl",
+      "Text-content-length": "4029",
+      "Text-content-md5": "19c67d2cb3ec5d2c20c2a5abe5ffb864",
+      "Text-content-sha1": "88bf83e687510106d5e4964fca7fd4b3ca00d423"
+    },
+    {
+      "Node-action": "add",
+      "Node-copyfrom-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/preview_posts.tpl",
+      "Node-copyfrom-rev": "150",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/simple_post.tpl",
+      "Text-copy-source-md5": "6dc81196d11417aae36ecb3fe0ca1c6c",
+      "Text-copy-source-sha1": "84a4509da2c13cabaa18bbc5ed77f50b271d83cc"
+    },
+    {
+      "Content-length": "1874",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/threads_settings_list.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "1864",
+      "Text-content-md5": "c34bb7f7109fdfa0f9864c17a54b6f12",
+      "Text-content-sha1": "702b2fbfd2aa7fb814bed7a416febab643b83ac3"
+    },
+    {
+      "Content-length": "1129",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/view_footer.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "1119",
+      "Text-content-md5": "071cb401f10c0bd557aacf4b0f692972",
+      "Text-content-sha1": "cbf9a602ec4bb6e9be5ae585c23c325984f3968a"
+    },
+    {
+      "Content-length": "3591",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/view_header.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "3581",
+      "Text-content-md5": "17a9e41aa7fd0f619fbf38db53d3f8cb",
+      "Text-content-sha1": "14c902fbe448386b40c1153ef8a3023b103b747b"
+    },
+    {
+      "Content-length": "3360",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/view_thread_header.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "3350",
+      "Text-content-md5": "71cd0ca275c482710a0b3773fbbeeef0",
+      "Text-content-sha1": "6cdc0a44ab6016a1da2da7b12be06843cbbb3756"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba-ib/smarty/kotoba/templates/Russian/preview_posts.tpl"
+    },
+    {
+      "Content-length": "6694",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "branches/kotoba-ib/threads.php",
+      "Text-content-length": "6694",
+      "Text-content-md5": "4f696ed33e31d65e421520207e49cc41",
+      "Text-content-sha1": "32420437cf55df6254274e79ebf1c705cabba86b"
+    }
+  ],
+  "path": "branches/kotoba-ib",
+  "revision": 151,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-09-13T10:28:34.130148Z",
+    "svn:log": "Добавлен просмотр нитей и редактирование настроек нитией. Другие не большие измненеия."
+  }
+}

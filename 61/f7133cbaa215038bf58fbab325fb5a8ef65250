@@ -1,0 +1,80 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "5838",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "5838",
+      "Text-content-md5": "4b43192ab87ea2c21392e5a113000a89",
+      "Text-content-sha1": "785b76b0c9018631b9cf3f01afd07305440faf09"
+    },
+    {
+      "Content-length": "26579",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "26579",
+      "Text-content-md5": "03dd351919a835ec3f59ebd87a41c472",
+      "Text-content-sha1": "c467cb5452d1cf181030cda87fd6adad66a5f28e"
+    },
+    {
+      "Content-length": "26492",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "26492",
+      "Text-content-md5": "114eba141de7645cab6713a534bd09b4",
+      "Text-content-sha1": "044ea1086bc2410637a7dcad9f8e24d8cca51eb9"
+    },
+    {
+      "Content-length": "7786",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/thumb_processing.php",
+      "Text-content-length": "7786",
+      "Text-content-md5": "ef53ec1a76c08f10823287fc50422967",
+      "Text-content-sha1": "a6b317d194da2507252e72218541a9173f2c8fe2"
+    }
+  ],
+  "path": "trunk",
+  "revision": 37,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-03-18T13:37:47.251577Z",
+    "svn:log": "gd library support added\nsome error handling in thumbnail generation procedures, so reply.php and createthread.php changed\nerror codes in common.php\n"
+  }
+}

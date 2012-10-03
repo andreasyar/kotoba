@@ -1,0 +1,111 @@
+{
+  "directories": [
+    "branches",
+    "tags",
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "5987",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "5987",
+      "Text-content-md5": "cc422cb35bbe69e2899082a84e793887",
+      "Text-content-sha1": "4276afbd9d91cb61d3f0bb50cba5929702442c9b"
+    },
+    {
+      "Content-length": "26216",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "26216",
+      "Text-content-md5": "f50a676bd653c635e3ea7c10a470c3b4",
+      "Text-content-sha1": "665c9c05d4761b28401480c339e71cf0da9da0b8"
+    },
+    {
+      "Content-length": "10565",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Install.txt",
+      "Text-content-length": "10565",
+      "Text-content-md5": "cf52d26a0a869065854a727f47d3fdf2",
+      "Text-content-sha1": "c25d9fe80e785c70fd572bb9eea5a9efd47fd516"
+    },
+    {
+      "Content-length": "4756",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/service/RemoveFiles.php",
+      "Prop-content-length": "10",
+      "Text-content-length": "4746",
+      "Text-content-md5": "7cdce2dcb94bfe7bfd0cc88d1e52bc2b",
+      "Text-content-sha1": "249c4cde1e5d584d84742aed2626fc027dca6cbf"
+    },
+    {
+      "Content-length": "5706",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/service/RestoreSettings.php",
+      "Text-content-length": "5706",
+      "Text-content-md5": "7997b6ef781eb4f29a4f57e453674387",
+      "Text-content-sha1": "7a32352379e6953fd2ce4dee17dff3cef0e93a00"
+    },
+    {
+      "Content-length": "806",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/RemoveFiles.tpl",
+      "Prop-content-length": "10",
+      "Text-content-length": "796",
+      "Text-content-md5": "c2901acee45f51b8d1156839d36b44ab",
+      "Text-content-sha1": "199ae818406bd8291312e29f0f2f003bf5c6612e"
+    },
+    {
+      "Content-length": "812",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/smarty/kotoba/templates/RestoreSettings.tpl",
+      "Text-content-length": "812",
+      "Text-content-md5": "0dd83d3848e42317e64d84aaefdc1278",
+      "Text-content-sha1": "12f9b4d700858ef80c483e8ff689d196cec10ea2"
+    }
+  ],
+  "path": "/",
+  "revision": 41,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-03-25T23:07:39.565495Z",
+    "svn:log": "Добавлен скрипт перемещения файлов удалённых постов. Другие небольшие изменения."
+  }
+}

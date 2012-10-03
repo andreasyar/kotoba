@@ -1,0 +1,68 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res",
+    "trunk/kotoba-ib/smarty",
+    "trunk/kotoba-ib/smarty/internals",
+    "trunk/kotoba-ib/smarty/kotoba",
+    "trunk/kotoba-ib/smarty/kotoba/cache",
+    "trunk/kotoba-ib/smarty/kotoba/configs",
+    "trunk/kotoba-ib/smarty/kotoba/templates",
+    "trunk/kotoba-ib/smarty/kotoba/templates_c",
+    "trunk/kotoba-ib/smarty/plugins",
+    "trunk/kotoba-ib/service",
+    "trunk/kotoba-ib/sessions"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/index.php": {
+      "svn:keywords": "Date Revision"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "17848",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "17848",
+      "Text-content-md5": "607367c09b883b2ff660c167a3a3c8ef",
+      "Text-content-sha1": "cb4bb9f228ee3e2e5425fbde4b18b054919b2849"
+    },
+    {
+      "Content-length": "9544",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/post_processing.php",
+      "Text-content-length": "9544",
+      "Text-content-md5": "f41a359ba2dcbbfafa8478c61afc59af",
+      "Text-content-sha1": "6c968a33dbf4b53595c2b005ebe5e530d0ff0a39"
+    },
+    {
+      "Content-length": "18217",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "18217",
+      "Text-content-md5": "81445e10325b72a7df9a14bc57101833",
+      "Text-content-sha1": "75257716eb27669562c2994c858d48ff7ccc5b47"
+    }
+  ],
+  "path": "trunk",
+  "revision": 58,
+  "revision_properties": {
+    "google:author": "eeyore@list.ru",
+    "svn:author": "eeyore@list.ru",
+    "svn:date": "2009-04-23T13:30:54.057783Z",
+    "svn:log": "mass code cleanups"
+  }
+}

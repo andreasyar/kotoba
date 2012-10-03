@@ -1,0 +1,23 @@
+{
+  "directories": [
+    "branches/kotoba"
+  ],
+  "node_properties": {},
+  "nodes": [
+    {
+      "Content-length": "10",
+      "Node-action": "add",
+      "Node-kind": "dir",
+      "Node-path": "branches/kotoba",
+      "Prop-content-length": "10"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 103,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T08:18:55.616439Z",
+    "svn:log": "New directory for branch."
+  }
+}

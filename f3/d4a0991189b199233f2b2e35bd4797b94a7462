@@ -1,0 +1,31 @@
+{
+  "directories": [
+    "branches/kotoba",
+    "branches/kotoba/smarty",
+    "branches/kotoba/smarty/kotoba",
+    "branches/kotoba/smarty/kotoba/configs",
+    "branches/kotoba/smarty/kotoba/templates",
+    "branches/kotoba/smarty/kotoba/templates_c",
+    "branches/kotoba/smarty/internals",
+    "branches/kotoba/smarty/plugins"
+  ],
+  "node_properties": {
+    "branches/kotoba/index.php": {
+      "svn:keywords": "Date Revision"
+    }
+  },
+  "nodes": [
+    {
+      "Node-action": "delete",
+      "Node-path": "branches/kotoba/smarty/kotoba/cache"
+    }
+  ],
+  "path": "branches/kotoba",
+  "revision": 117,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-08-02T09:06:13.619551Z",
+    "svn:log": ""
+  }
+}

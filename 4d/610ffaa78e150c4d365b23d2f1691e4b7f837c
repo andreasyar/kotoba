@@ -1,0 +1,127 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/logo.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "759",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/.htaccess",
+      "Prop-content-length": "10",
+      "Text-content-length": "749",
+      "Text-content-md5": "c67c5707f119433de24e731b6f77b4c7",
+      "Text-content-sha1": "cf4f3fd351fc6975a4cc3695659dfded57382910"
+    },
+    {
+      "Content-length": "3768",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/add_board.php",
+      "Text-content-length": "3768",
+      "Text-content-md5": "c8a12cbee4b2668d899e5256f8c788b5",
+      "Text-content-sha1": "c26c45aedf3ad163cf0905df02f14398e61c5030"
+    },
+    {
+      "Content-length": "12168",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "12168",
+      "Text-content-md5": "ab480859cfa7e50b1f3e36484a517f0a",
+      "Text-content-sha1": "f509e9744ff67f77a24ad0bff8edfecc66b29793"
+    },
+    {
+      "Content-length": "2862",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/index.php",
+      "Text-content-length": "2862",
+      "Text-content-md5": "ba734d91100f0c9558d52199f8316a00",
+      "Text-content-sha1": "3c61b9cabb90776b0caa94c4b3648ab8862d7d19"
+    },
+    {
+      "Content-length": "3930",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/login.php",
+      "Text-content-length": "3930",
+      "Text-content-md5": "da7b2341d19f79d175386f3ea8487ddf",
+      "Text-content-sha1": "6c91d63419e4156345ef4cef3bdfc9728144396a"
+    },
+    {
+      "Content-length": "1327",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/logout.php",
+      "Text-content-length": "1327",
+      "Text-content-md5": "10d94520e57f0ea7b6b2f8eaab487ba5",
+      "Text-content-sha1": "e74f38d0a6f57a869ac04c947b753aadeabdf34a"
+    },
+    {
+      "Content-length": "19461",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "19461",
+      "Text-content-md5": "03fcc6644d1f019129a73ee242ede225",
+      "Text-content-sha1": "9467e2cb5243180d35c8ca1a2ba8f45d6625cbf2"
+    },
+    {
+      "Content-length": "10210",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Install.txt",
+      "Prop-content-length": "10",
+      "Text-content-length": "10200",
+      "Text-content-md5": "21a3831028abddf141da8b7661f2b375",
+      "Text-content-sha1": "f8a4ef8ff00ed9db596fc4b0d3e125023a48d4eb"
+    },
+    {
+      "Content-length": "84",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/restore base struct.bat",
+      "Prop-content-length": "10",
+      "Text-content-length": "74",
+      "Text-content-md5": "6b687b8257dc6bfd0283cbf71d51f0b2",
+      "Text-content-sha1": "46034eb378f2f05cc41a357124fce00035c98255"
+    },
+    {
+      "Content-length": "12810",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/threads.php",
+      "Text-content-length": "12810",
+      "Text-content-md5": "b2ced4e5f2e0ccbbe88e5d1ee1c11cf2",
+      "Text-content-sha1": "49fb1d048c2cf715ff61b771d9e2191edd1cb3f4"
+    }
+  ],
+  "path": "trunk",
+  "revision": 29,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-03-14T00:26:23.301189Z",
+    "svn:log": "Добавлен набросок описания установки под Windows. Добавлен скрипт создания БД. Небольшие исправления."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "directories": [
+    "trunk",
+    "trunk/kotoba-ib",
+    "trunk/kotoba-ib/img",
+    "trunk/kotoba-ib/nbproject",
+    "trunk/kotoba-ib/nbproject/private",
+    "trunk/kotoba-ib/res"
+  ],
+  "node_properties": {
+    "trunk/kotoba-ib/img/ahs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/kotoba.jpg": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/login_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    },
+    "trunk/kotoba-ib/res/register_bs.png": {
+      "svn:mime-type": "application/octet-stream"
+    }
+  },
+  "nodes": [
+    {
+      "Content-length": "4726",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/common.php",
+      "Text-content-length": "4726",
+      "Text-content-md5": "46301c30aa9bbed6f725b4969dac124b",
+      "Text-content-sha1": "54a024a9f1e832c5525deaa643f7ee3b40f9cdce"
+    },
+    {
+      "Content-length": "32371",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/createthread.php",
+      "Text-content-length": "32371",
+      "Text-content-md5": "52c5e1e81f013002d1572acb34f6684b",
+      "Text-content-sha1": "3b649938c671cc7259bc799d64cb66e304a60e2b"
+    },
+    {
+      "Content-length": "11637",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/events.php",
+      "Text-content-length": "11637",
+      "Text-content-md5": "bf4dbfac8843f200efc224b82df33e89",
+      "Text-content-sha1": "fc4adc39afa408c917f11af9e9e770999c7277f5"
+    },
+    {
+      "Content-length": "3707",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/kotoba.css",
+      "Text-content-length": "3707",
+      "Text-content-md5": "50e3be3080904fda77723f18528a2334",
+      "Text-content-sha1": "146d5220eb724e6426fd82e9711f121aaefe75f4"
+    },
+    {
+      "Content-length": "19684",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/preview.php",
+      "Text-content-length": "19684",
+      "Text-content-md5": "0b87278c5665b7abb700c0265a309f56",
+      "Text-content-sha1": "7aaaf636a007f6acf8ef504e5f6d46e37b0039d5"
+    },
+    {
+      "Content-length": "7815",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/removepost.php",
+      "Text-content-length": "7815",
+      "Text-content-md5": "78b45f8c99b3cb4e392b2cea0c24c0da",
+      "Text-content-sha1": "42aebcbbdc0b4cc8709edd184f289e6147b85bd6"
+    },
+    {
+      "Content-length": "31237",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/reply.php",
+      "Text-content-length": "31237",
+      "Text-content-md5": "37ecf743670d8febab5f8c686e5f26b7",
+      "Text-content-sha1": "0d5f0ba6b022617ffe5567aee4a1f5cc61df1c29"
+    },
+    {
+      "Content-length": "864",
+      "Node-action": "change",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/Kotoba tree.txt",
+      "Text-content-length": "864",
+      "Text-content-md5": "e475fadf973229333394a2c4f884742a",
+      "Text-content-sha1": "9787e87c56f2ef3b227a005168571bef8a99460d"
+    },
+    {
+      "Content-length": "83",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/create base struct.bat",
+      "Prop-content-length": "10",
+      "Text-content-length": "73",
+      "Text-content-md5": "a2dc7ad715ba081d89c7c25234ea9b67",
+      "Text-content-sha1": "ab54ba19543ad52a48791f1779bb389793e32482"
+    },
+    {
+      "Content-length": "3769",
+      "Node-action": "add",
+      "Node-kind": "file",
+      "Node-path": "trunk/kotoba-ib/res/kotoba struct.sql",
+      "Prop-content-length": "10",
+      "Text-content-length": "3759",
+      "Text-content-md5": "12e6bd17809c9ef2465e5f2612fa27d8",
+      "Text-content-sha1": "cc7d60f34ba431076b609a2180e056bf63c8e8c6"
+    },
+    {
+      "Node-action": "delete",
+      "Node-path": "trunk/kotoba-ib/res/Kotoba DB.txt"
+    }
+  ],
+  "path": "trunk",
+  "revision": 26,
+  "revision_properties": {
+    "google:author": "airflow83",
+    "svn:author": "airflow83",
+    "svn:date": "2009-02-22T21:05:38.234999Z",
+    "svn:log": "Добавлена выборка настроек пользователя. Исправлен баг с Вакаба марк, когда разметка вылезала за пределы тегов. Добавлены новые константы для системы сбора статистики. Исправлено выделение цитат цветом в тексте сообщений. Добавлен бамплимит тредов. Добавлена выборка настроек пользователя при просмотре доски, показ ip адресов для админов. Данные о картинке в ответах перенесены на другую строку. Исправлено удаление постов всвязи с добавлением ограничений с пом. внешнего ключа. Удален старый файл структуры БД, добавлен новый и добавлен скрипт, создающий дамп структуры БД."
+  }
+}
