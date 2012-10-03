@@ -4,7 +4,7 @@
  * See license.txt for more info.*
  *********************************/
 
-namespace ru\azuchan\pages;
+namespace ru\azuchan\kotoba\pages;
 
 class BanPage extends Page {
     private $ip;
